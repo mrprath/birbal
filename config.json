@@ -1,0 +1,13 @@
+{
+  "_comment": "DR-7: Trusted folders allowlist. Default-deny — Birbal may only access directories listed here.",
+  "_why": "If a skill tries to read outside these paths, it's blocked. Narrow scope = smaller blast radius.",
+  "trustedFolders": [
+    ".",
+    "lib",
+    "src",
+    "skills",
+    "tests"
+  ],
+  "scopeRoot": ".",
+  "defaultPolicy": "deny"
+}
