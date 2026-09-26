@@ -26,7 +26,9 @@ const BANNED_PATTERNS = [
 ];
 
 const ALLOWED_FILES = [
-  'lib/transport.js', // The gate itself
+  'lib/transport.js',   // TPS — the gate itself
+  'lib/request.js',     // Secure request — uses the gate, needs node:https for the request call
+  'lib/token-guard.js', // Liveness probe — borrows getTlsOptions(), needs node:https for httpStatus()
 ];
 
 function walkJs(dir, files = []) {

@@ -15,5 +15,11 @@ node_modules/
 .vscode/
 .idea/
 
+# Video output and samples
+skills/car-edit/output/
+skills/car-edit/sample/*.mp4
+skills/car-edit/sample/*.avi
+skills/car-edit/sample/*.mov
+
 # Claude local config and sessions
 .claude/
