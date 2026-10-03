@@ -40,6 +40,17 @@ if (!values.label) {
   process.exit(1);
 }
 
+// Validate inputs: labels and roles must be simple identifiers.
+// WHY: these values end up in a .bat file. Unvalidated strings could
+// break out of quoting and execute arbitrary commands.
+const SAFE_LABEL = /^[a-zA-Z0-9_-]{1,64}$/;
+for (const [name, val] of [['label', values.label], ['role', values.role], ['spawner', values.spawner]]) {
+  if (val && !SAFE_LABEL.test(val)) {
+    console.error(`Error: --${name} must be alphanumeric/dash/underscore, max 64 chars. Got: ${val}`);
+    process.exit(1);
+  }
+}
+
 // Build the initial prompt that the child session will execute on start
 // IMPORTANT: no double quotes in the prompt — they break bat file quoting.
 // Use backticks or single quotes for emphasis instead.

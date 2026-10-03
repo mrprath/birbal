@@ -31,6 +31,9 @@ settings.json
 .mcp.json
 .mesh-spawn-repo-maintainer.bat
 
+# Security exemption map (attack surface — never shared)
+.security-exemptions
+
 # Personal scripts and content infra
 scripts/send-digest-oneoff.mjs
 scripts/newsletter-run.mjs

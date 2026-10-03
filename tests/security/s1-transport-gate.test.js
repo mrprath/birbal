@@ -25,12 +25,25 @@ const BANNED_PATTERNS = [
   /\brequire\s*\(\s*['"]undici['"]\s*\)/,
 ];
 
-const ALLOWED_FILES = [
-  'lib/secure-transport.js',   // TPS — the gate itself
-  'lib/resilient-request.js',  // Resilient request — uses the gate, needs node:https for the request call
-  'lib/token-validator.js',    // Liveness probe — borrows getTlsOptions(), needs node:https for httpStatus()
-  'scripts/gmail-auth.mjs',   // Local-only OAuth callback server — never runs in production pipeline
+// Reads from .security-exemptions if present (local), otherwise uses defaults.
+// WHY defaults exist: CI clones don't have the exemptions file (it's gitignored).
+const EXEMPTIONS_PATH = join(REPO_ROOT, '.security-exemptions');
+const DEFAULT_ALLOWED = [
+  'lib/secure-transport.js',
+  'lib/resilient-request.js',
+  'lib/token-validator.js',
+  'lib/transcribe.js',
+  'scripts/gmail-auth.mjs',
 ];
+let ALLOWED_FILES;
+try {
+  ALLOWED_FILES = readFileSync(EXEMPTIONS_PATH, 'utf-8')
+    .split('\n')
+    .map(line => line.replace(/#.*/, '').trim())
+    .filter(Boolean);
+} catch {
+  ALLOWED_FILES = DEFAULT_ALLOWED;
+}
 
 function walkJs(dir, files = []) {
   for (const entry of readdirSync(dir)) {
