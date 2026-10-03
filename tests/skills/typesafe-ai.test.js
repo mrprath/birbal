@@ -14,7 +14,7 @@ import {
   buildPayload,
   interpretResponse,
   selectPrimitive,
-} from '../../skills/typesafe-ai/jev.js';
+} from '../../.claude/skills/typesafe-ai/jev.js';
 
 // --- Payload construction ---
 

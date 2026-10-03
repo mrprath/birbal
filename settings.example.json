@@ -1,0 +1,11 @@
+{
+  "_comment": "DR-7: Allowed outbound URLs. Default-deny — new URLs require explicit user approval.",
+  "_why": "Prevents data exfiltration to arbitrary endpoints. A compromised skill can't POST creds to evil.com.",
+  "allowedUrls": [
+    "https://api.example.com",
+    "https://cdn.example.com",
+    "https://auth.example.com"
+  ],
+  "defaultPolicy": "deny",
+  "requireApprovalForNew": true
+}

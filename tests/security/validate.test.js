@@ -113,9 +113,9 @@ describe('validateUrl — DR-7 allowlist enforcement', () => {
   // https://api.github.com, https://api.notion.com, https://api.substack.com, https://api.typesafe.ai
 
   it('accepts allowed URL', () => {
-    const r = validateUrl('https://api.github.com/repos/prathcoding/birbal');
+    const r = validateUrl('https://api.github.com/repos/owner/repo');
     assert.ok(r.valid);
-    assert.equal(r.url, 'https://api.github.com/repos/prathcoding/birbal');
+    assert.equal(r.url, 'https://api.github.com/repos/owner/repo');
   });
 
   it('accepts all allowlisted origins', () => {

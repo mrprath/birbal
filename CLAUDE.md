@@ -90,7 +90,7 @@ TDD is the default workflow. Not optional, not "when it makes sense." Default.
 ### What gets tested
 
 - **Skills:** Every skill has at least one test that verifies its core judgment
-  or output against a known input. Lives in `tests/` mirroring `skills/` structure.
+  or output against a known input. Lives in `tests/` mirroring `.claude/skills/` structure.
 - **Jev decisions:** Test decision boundaries with known state. If a Noul should
   return >0.6 for complex projects, feed it a known-complex project and assert.
 - **Integrations:** API calls, file operations, security rules — test the contract,
@@ -127,7 +127,7 @@ The Skill Feedback Loop (existing protocol) now includes:
 ## Skills
 - All skills follow Anthropic's skill format: YAML frontmatter + SKILL.md
 - Every skill invocation triggers a feedback loop: analyze execution, suggest improvements based on failures
-- Skills live in `skills/` directory, kebab-case naming
+- Skills live in `.claude/skills/` directory, kebab-case naming
 
 ## Skill Feedback Loop Protocol
 
