@@ -13,24 +13,24 @@ const REPO_ROOT = new URL('../../', import.meta.url).pathname.replace(/^\/([A-Z]
 
 describe('S2 — TLS Hardcoded', () => {
   it('transport.js contains rejectUnauthorized: true', () => {
-    const content = readFileSync(join(REPO_ROOT, 'lib/transport.js'), 'utf-8');
+    const content = readFileSync(join(REPO_ROOT, 'lib/secure-transport.js'), 'utf-8');
     const matches = content.match(/rejectUnauthorized:\s*true/g);
     assert.ok(matches && matches.length >= 1,
-      'lib/transport.js must hardcode rejectUnauthorized: true');
+      'lib/secure-transport.js must hardcode rejectUnauthorized: true');
   });
 
   it('transport.js never sets rejectUnauthorized to false', () => {
-    const content = readFileSync(join(REPO_ROOT, 'lib/transport.js'), 'utf-8');
+    const content = readFileSync(join(REPO_ROOT, 'lib/secure-transport.js'), 'utf-8');
     assert.ok(!content.includes('rejectUnauthorized: false'),
-      'lib/transport.js must NEVER set rejectUnauthorized: false');
+      'lib/secure-transport.js must NEVER set rejectUnauthorized: false');
   });
 
   it('transport.js checks for NODE_TLS_REJECT_UNAUTHORIZED=0 on startup', () => {
-    const content = readFileSync(join(REPO_ROOT, 'lib/transport.js'), 'utf-8');
+    const content = readFileSync(join(REPO_ROOT, 'lib/secure-transport.js'), 'utf-8');
     assert.ok(content.includes('NODE_TLS_REJECT_UNAUTHORIZED'),
-      'lib/transport.js must check for NODE_TLS_REJECT_UNAUTHORIZED override');
+      'lib/secure-transport.js must check for NODE_TLS_REJECT_UNAUTHORIZED override');
     assert.ok(content.includes('process.exit'),
-      'lib/transport.js must exit if TLS validation is globally disabled');
+      'lib/secure-transport.js must exit if TLS validation is globally disabled');
   });
 
   it('no file sets NODE_TLS_REJECT_UNAUTHORIZED=0', async () => {
@@ -55,7 +55,7 @@ describe('S2 — TLS Hardcoded', () => {
       if (/NODE_TLS_REJECT_UNAUTHORIZED\s*=\s*['"]?0/.test(content)) {
         // Allow the check in transport.js itself
         const rel = relative(REPO_ROOT, file).replace(/\\/g, '/');
-        if (rel !== 'lib/transport.js' && !rel.startsWith('tests/')) {
+        if (rel !== 'lib/secure-transport.js' && !rel.startsWith('tests/')) {
           violations.push(rel);
         }
       }

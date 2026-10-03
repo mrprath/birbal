@@ -26,9 +26,10 @@ const BANNED_PATTERNS = [
 ];
 
 const ALLOWED_FILES = [
-  'lib/transport.js',   // TPS — the gate itself
-  'lib/request.js',     // Secure request — uses the gate, needs node:https for the request call
-  'lib/token-guard.js', // Liveness probe — borrows getTlsOptions(), needs node:https for httpStatus()
+  'lib/secure-transport.js',   // TPS — the gate itself
+  'lib/resilient-request.js',  // Resilient request — uses the gate, needs node:https for the request call
+  'lib/token-validator.js',    // Liveness probe — borrows getTlsOptions(), needs node:https for httpStatus()
+  'scripts/gmail-auth.mjs',   // Local-only OAuth callback server — never runs in production pipeline
 ];
 
 function walkJs(dir, files = []) {
@@ -52,6 +53,8 @@ describe('S1 — Transport Gate Enforcement', () => {
     for (const file of files) {
       const rel = relative(REPO_ROOT, file).replace(/\\/g, '/');
       if (ALLOWED_FILES.includes(rel)) continue;
+      // Tests are not production code — they may import anything for verification
+      if (rel.startsWith('tests/')) continue;
 
       const content = readFileSync(file, 'utf-8');
       const lines = content.split('\n');

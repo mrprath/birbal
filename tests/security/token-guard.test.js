@@ -9,7 +9,7 @@ import {
   TokenGuard, _authPrompt,
   checkGitHubToken, checkNotionToken, checkGraphToken, checkTypeSafeToken,
   githubGuard, notionGuard, graphGuard, typesafeGuard,
-} from '../../lib/token-guard.js';
+} from '../../lib/token-validator.js';
 
 // Helper: create a fake JWT with a given exp claim
 function fakeJwt(payload = {}) {

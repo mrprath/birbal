@@ -3,7 +3,7 @@
 
 import { describe, it } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { scrubSecrets } from '../../lib/request.js';
+import { scrubSecrets } from '../../lib/resilient-request.js';
 
 describe('scrubSecrets — S6 log scrubbing', () => {
   it('redacts Bearer tokens', () => {

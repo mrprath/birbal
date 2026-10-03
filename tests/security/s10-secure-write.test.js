@@ -81,8 +81,8 @@ describe('S10 — No Raw Writes to Credential Files', () => {
   });
 
   it('env.js imports secureWriteFile', () => {
-    const content = readFileSync(join(REPO_ROOT, 'src/env.js'), 'utf-8');
+    const content = readFileSync(join(REPO_ROOT, 'lib/env.js'), 'utf-8');
     assert.ok(content.includes('secureWriteFile'),
-      'src/env.js must use secureWriteFile, not raw fs writes');
+      'lib/env.js must use secureWriteFile, not raw fs writes');
   });
 });
