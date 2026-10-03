@@ -4,13 +4,21 @@
   "description": "Birbal — skill library, security-first AI agent framework",
   "main": "index.js",
   "scripts": {
-    "test": "node --test tests/*.test.js tests/security/*.test.js tests/contracts/*.test.js",
+    "test": "node --test tests/*.test.js tests/security/*.test.js tests/contracts/*.test.js tests/mcp/*.test.js tests/whats-new/*.test.js tests/newsletter/*.test.js tests/blog-it/*.test.js",
     "test:spine": "node --test tests/*.test.js",
     "test:security": "node --test tests/security/*.test.js",
-    "test:contracts": "node --test tests/contracts/*.test.js"
+    "test:contracts": "node --test tests/contracts/*.test.js",
+    "test:mcp": "node --test tests/mcp/*.test.js",
+    "test:site": "node --test tests/whats-new/*.test.js tests/newsletter/*.test.js tests/blog-it/*.test.js",
+    "mcp": "node mcp/proxy.js",
+    "record": "node scripts/voice-runtime.mjs --once --output clipboard"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "better-sqlite3": "^13.0.3"
+  }
 }
