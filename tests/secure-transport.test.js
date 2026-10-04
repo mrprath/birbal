@@ -47,7 +47,8 @@ describe('createSecureAgent — HTTPS agent factory', () => {
   it('cannot override rejectUnauthorized via options — TLS always wins', () => {
     // This is the critical adversarial test.
     // Even if a caller passes rejectUnauthorized: false, the agent must enforce true.
-    const agent = createSecureAgent({ rejectUnauthorized: false });
+    const adversarialOpts = { rejectUnauthorized: false }; // lgtm[js/disabling-certificate-pinning]
+    const agent = createSecureAgent(adversarialOpts);
     assert.equal(agent.options.rejectUnauthorized, true);
   });
 

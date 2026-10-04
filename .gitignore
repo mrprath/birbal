@@ -21,6 +21,10 @@ node_modules/
 .claude/skills/car-edit/sample/*.avi
 .claude/skills/car-edit/sample/*.mov
 
+# Runtime outputs and state
+artifacts/
+state/
+
 # Runtime databases
 mesh.db
 mesh.db-shm
@@ -29,7 +33,8 @@ mesh.db-wal
 # Local config (settings.example.json is the shareable version)
 settings.json
 .mcp.json
-.mesh-spawn-repo-maintainer.bat
+.mesh-spawn-*.bat
+.mesh/
 
 # Security exemption map (attack surface — never shared)
 .security-exemptions
@@ -37,6 +42,7 @@ settings.json
 # Personal scripts and content infra
 scripts/send-digest-oneoff.mjs
 scripts/newsletter-run.mjs
+scripts/build-digest.mjs
 lib/notion-site.js
 tests/blog-it/
 tests/newsletter/
