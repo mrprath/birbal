@@ -15,5 +15,32 @@ node_modules/
 .vscode/
 .idea/
 
+# Video output and samples
+.claude/skills/car-edit/output/
+.claude/skills/car-edit/sample/*.mp4
+.claude/skills/car-edit/sample/*.avi
+.claude/skills/car-edit/sample/*.mov
+
+# Runtime databases
+mesh.db
+mesh.db-shm
+mesh.db-wal
+
+# Local config (settings.example.json is the shareable version)
+settings.json
+.mcp.json
+.mesh-spawn-repo-maintainer.bat
+
+# Security exemption map (attack surface — never shared)
+.security-exemptions
+
+# Personal scripts and content infra
+scripts/send-digest-oneoff.mjs
+scripts/newsletter-run.mjs
+lib/notion-site.js
+tests/blog-it/
+tests/newsletter/
+tests/whats-new/
+
 # Claude local config and sessions
 .claude/

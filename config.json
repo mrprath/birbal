@@ -6,7 +6,10 @@
     "lib",
     "src",
     "skills",
-    "tests"
+    "tests",
+    "mcp",
+    "state",
+    "artifacts"
   ],
   "scopeRoot": ".",
   "defaultPolicy": "deny"

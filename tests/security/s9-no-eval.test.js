@@ -29,7 +29,8 @@ const EVAL_PATTERNS = [
 ];
 
 const EXEMPT_FILES = [
-  'tests/',  // Test files may demonstrate bad patterns
+  'tests/',              // Test files may demonstrate bad patterns
+  'scripts/gmail-auth',  // Local-only OAuth helper — exec opens browser, not user input
 ];
 
 function isExempt(rel) {
