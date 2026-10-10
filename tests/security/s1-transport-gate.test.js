@@ -25,7 +25,7 @@ const BANNED_PATTERNS = [
   /\brequire\s*\(\s*['"]undici['"]\s*\)/,
 ];
 
-// Reads from .security-exemptions if present (local), otherwise uses defaults.
+// Reads [S1] section from .security-exemptions if present (local), otherwise uses defaults.
 // WHY defaults exist: CI clones don't have the exemptions file (it's gitignored).
 const EXEMPTIONS_PATH = join(REPO_ROOT, '.security-exemptions');
 const DEFAULT_ALLOWED = [
@@ -35,12 +35,29 @@ const DEFAULT_ALLOWED = [
   'lib/transcribe.js',
   'scripts/gmail-auth.mjs',
 ];
+
+function parseSection(text, section) {
+  let inSection = false;
+  const entries = [];
+  for (const line of text.split('\n')) {
+    const trimmed = line.trim();
+    if (/^\[.+\]$/.test(trimmed)) {
+      inSection = trimmed === `[${section}]`;
+      continue;
+    }
+    if (inSection) {
+      const entry = trimmed.replace(/#.*/, '').trim();
+      if (entry) entries.push(entry);
+    }
+  }
+  return entries;
+}
+
 let ALLOWED_FILES;
 try {
-  ALLOWED_FILES = readFileSync(EXEMPTIONS_PATH, 'utf-8')
-    .split('\n')
-    .map(line => line.replace(/#.*/, '').trim())
-    .filter(Boolean);
+  const raw = readFileSync(EXEMPTIONS_PATH, 'utf-8');
+  const parsed = parseSection(raw, 'S1');
+  ALLOWED_FILES = parsed.length > 0 ? parsed : DEFAULT_ALLOWED;
 } catch {
   ALLOWED_FILES = DEFAULT_ALLOWED;
 }

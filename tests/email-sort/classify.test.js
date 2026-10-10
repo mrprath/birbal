@@ -44,7 +44,7 @@ describe('buildPayload — does the spear work', () => {
     const payload = buildPayload([FIXTURES[0]]);
     const q = payload.questions['email_a1'];
     assert.equal(q.type, 'choice');
-    assert.ok(q.instructions.includes('linkedin.com'));
+    assert.ok(q.instructions.includes('jobalerts-noreply@linkedin.com'));
     assert.ok(q.instructions.includes('Netflix'));
     const criteriaKeys = Object.keys(q.criteria);
     assert.deepEqual(criteriaKeys.sort(), [...CATEGORY_NAMES].sort());
@@ -53,7 +53,7 @@ describe('buildPayload — does the spear work', () => {
   it('includes sender, subject, and snippet in instructions', () => {
     const payload = buildPayload([FIXTURES[2]]);
     const q = payload.questions['email_a3'];
-    assert.ok(q.instructions.includes('tldrnewsletter.com'), 'missing sender');
+    assert.ok(q.instructions.includes('dan@tldrnewsletter.com'), 'missing sender');
     assert.ok(q.instructions.includes('ChatGPT Pro Max'), 'missing subject');
     assert.ok(q.instructions.includes('subscription'), 'missing snippet');
   });

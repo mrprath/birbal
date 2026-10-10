@@ -550,7 +550,7 @@ describe('Per-service checkers — checkXToken()', () => {
       const r = await checkGitHubToken();
       assert.ok(!r.valid);
       assert.equal(r.service, 'GitHub');
-      assert.ok(r.fix.includes('github.com'));
+      assert.ok(r.fix.includes('github.com/settings/tokens'));
     });
   });
 

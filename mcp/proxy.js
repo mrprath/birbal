@@ -107,6 +107,7 @@ export class McpProxy {
     this._pendingRequests = new Map(); // id -> { resolve, reject } for _restart
     this._toolsListRequestIds = new Set(); // track tools/list request IDs
     this._stopping = false;
+    this._restarting = false; // true during manual _restart to suppress auto-restart
     this._childReady = false;
   }
 
@@ -233,6 +234,11 @@ export class McpProxy {
   async _handleRestart(requestId) {
     process.stderr.write('[BIRBAL PROXY] _restart requested\n');
 
+    // WHY: killing the child fires its `exit` event, which triggers _onChildExit.
+    // Without this flag, _onChildExit races to spawn a second child and burns
+    // through _restartTimestamps, eventually hitting the cap and process.exit(1).
+    this._restarting = true;
+
     // Kill current child
     if (this._child && !this._child.killed) {
       this._child.kill('SIGTERM');
@@ -267,13 +273,15 @@ export class McpProxy {
       method: 'notifications/tools/list_changed',
     };
     process.stdout.write(JSON.stringify(notification) + '\n');
+
+    this._restarting = false;
   }
 
   /**
    * Auto-restart logic on child crash.
    */
   async _onChildExit() {
-    if (this._stopping) return;
+    if (this._stopping || this._restarting) return;
 
     if (!shouldRestart(this._restartTimestamps, this._maxRestarts, this._restartWindow)) {
       process.stderr.write(

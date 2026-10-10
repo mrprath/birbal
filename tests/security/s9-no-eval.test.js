@@ -28,10 +28,39 @@ const EVAL_PATTERNS = [
   /spawn(?:Sync)?\s*\(\s*['"](?:bash|sh|cmd)['"]\s*,\s*\[\s*['"]-c['"]\s*,\s*`/,
 ];
 
-const EXEMPT_FILES = [
-  'tests/',              // Test files may demonstrate bad patterns
-  'scripts/gmail-auth',  // Local-only OAuth helper — exec opens browser, not user input
+// Reads [S9] section from .security-exemptions if present (local), otherwise uses defaults.
+// WHY defaults exist: CI clones don't have the exemptions file (it's gitignored).
+const EXEMPTIONS_PATH = join(REPO_ROOT, '.security-exemptions');
+const DEFAULT_EXEMPT = [
+  'tests/',
+  'scripts/gmail-auth',
 ];
+
+function parseSection(text, section) {
+  let inSection = false;
+  const entries = [];
+  for (const line of text.split('\n')) {
+    const trimmed = line.trim();
+    if (/^\[.+\]$/.test(trimmed)) {
+      inSection = trimmed === `[${section}]`;
+      continue;
+    }
+    if (inSection) {
+      const entry = trimmed.replace(/#.*/, '').trim();
+      if (entry) entries.push(entry);
+    }
+  }
+  return entries;
+}
+
+let EXEMPT_FILES;
+try {
+  const raw = readFileSync(EXEMPTIONS_PATH, 'utf-8');
+  const parsed = parseSection(raw, 'S9');
+  EXEMPT_FILES = parsed.length > 0 ? parsed : DEFAULT_EXEMPT;
+} catch {
+  EXEMPT_FILES = DEFAULT_EXEMPT;
+}
 
 function isExempt(rel) {
   return EXEMPT_FILES.some(e => rel.startsWith(e));
