@@ -109,4 +109,26 @@ describe('McpProxy constructor', () => {
     const proxy = new McpProxy('server.js', { maxRestarts: 3 });
     assert.ok(proxy);
   });
+
+  it('initializes _restarting flag to false', () => {
+    const proxy = new McpProxy('server.js');
+    assert.equal(proxy._restarting, false);
+  });
+});
+
+describe('_onChildExit suppression', () => {
+  it('skips auto-restart when _restarting is true', async () => {
+    const proxy = new McpProxy('server.js');
+    proxy._restarting = true;
+    // _onChildExit should return early and not push to _restartTimestamps
+    await proxy._onChildExit();
+    assert.equal(proxy._restartTimestamps.length, 0);
+  });
+
+  it('skips auto-restart when _stopping is true', async () => {
+    const proxy = new McpProxy('server.js');
+    proxy._stopping = true;
+    await proxy._onChildExit();
+    assert.equal(proxy._restartTimestamps.length, 0);
+  });
 });

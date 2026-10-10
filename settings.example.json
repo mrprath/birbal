@@ -4,7 +4,8 @@
   "allowedUrls": [
     "https://api.example.com",
     "https://cdn.example.com",
-    "https://auth.example.com"
+    "https://auth.example.com",
+    "https://query1.finance.yahoo.com"
   ],
   "defaultPolicy": "deny",
   "requireApprovalForNew": true
