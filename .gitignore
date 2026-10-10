@@ -21,6 +21,9 @@ node_modules/
 .claude/skills/car-edit/sample/*.avi
 .claude/skills/car-edit/sample/*.mov
 
+# Test build artifacts
+tests/mcp/ghidra/smoke.exe
+
 # Runtime outputs and state
 artifacts/
 state/
