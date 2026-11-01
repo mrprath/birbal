@@ -12,6 +12,7 @@ import { describe, it } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   buildPayload,
+  buildShellCommand,
   interpretResponse,
   selectPrimitive,
 } from '../../.claude/skills/typesafe-ai/jev.js';
@@ -141,6 +142,52 @@ describe('interpretResponse', () => {
 
     assert.match(result, /high/i);
     assert.match(result, /0\.78|78%/);
+  });
+});
+
+// --- Shell command builder ---
+
+describe('buildShellCommand', () => {
+  it('uses file-based payload when question count exceeds 5', () => {
+    const questions = {};
+    for (let i = 0; i < 8; i++) {
+      questions[`q${i}`] = { type: 'noul', instructions: `Question ${i}`, criteria: { true: 'yes', false: 'no' } };
+    }
+    const payload = buildPayload({ text: 'test' }, questions);
+    const cmd = buildShellCommand(payload);
+
+    // Should use -d @ (file reference) not inline JSON
+    assert.match(cmd, /-d @/);
+    // Should include cleanup (rm)
+    assert.match(cmd, /rm\b/);
+  });
+
+  it('uses inline JSON for 5 or fewer questions', () => {
+    const payload = buildPayload({ text: 'test' }, {
+      q1: { type: 'noul', instructions: 'test', criteria: { true: 'yes', false: 'no' } },
+    });
+    const cmd = buildShellCommand(payload);
+
+    // Should use inline -d, not file reference
+    assert.doesNotMatch(cmd, /-d @/);
+  });
+
+  it('never exposes the API key value in the command', () => {
+    const payload = buildPayload({ text: 'test' }, {
+      q1: { type: 'noul', instructions: 'test', criteria: { true: 'yes', false: 'no' } },
+    });
+    const cmd = buildShellCommand(payload);
+
+    // Key should come from env var, not be hardcoded
+    assert.match(cmd, /\$TYPESAFE_API_KEY/);
+    assert.doesNotMatch(cmd, /apikey_/);
+  });
+
+  it('returns a string', () => {
+    const payload = buildPayload({ text: 'test' }, {
+      q1: { type: 'noul', instructions: 'test', criteria: { true: 'yes', false: 'no' } },
+    });
+    assert.equal(typeof buildShellCommand(payload), 'string');
   });
 });
 

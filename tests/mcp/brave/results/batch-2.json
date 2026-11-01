@@ -1,0 +1,1304 @@
+[
+  {
+    "category": "finance",
+    "query": "Federal Reserve interest rate decision October 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8928571428571429,
+        "depth": 0.5033333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.6992380952380952
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.77,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.856857142857143
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "S&P 500 earnings season Q3 2026 outlook",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9047619047619048,
+        "depth": 0.5243333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7658190476190476
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9047619047619048,
+        "depth": 0.7913333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9392190476190475
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "US national debt ceiling negotiations 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.49833333333333335,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6510952380952382
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 0.8920000000000001,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8212571428571428
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "OPEC oil production cuts impact crude price",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.5043333333333334,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7596761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9752380952380953
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "China property market Evergrande recovery plan",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 0.717,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9067333333333334
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.9863333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.968695238095238
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "Japanese yen intervention Bank of Japan policy",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9761904761904762,
+        "depth": 0.865,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8682380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8961904761904762
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "European Central Bank inflation target progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9761904761904762,
+        "depth": 0.8526666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8457714285714285
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.4285714285714286,
+        "depth": 0.7426666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7742476190476191
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "India stock market IPO boom 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.852,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9656380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.85,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9652380952380952
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "Bitcoin ETF institutional adoption flows",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9345238095238095,
+        "depth": 0.82,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8709047619047618
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8736666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9175904761904763
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "global supply chain reshoring nearshoring costs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.62,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7954285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9773809523809524
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "US housing market mortgage rates affordability",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9107142857142857,
+        "depth": 0.9946666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9210761904761904
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.7463333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8521238095238095
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "private equity dry powder deployment 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.7416666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8952380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.936190476190476
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "venture capital AI startup funding trends",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.98,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8788571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 0.9473333333333332,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9692285714285713
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "sovereign wealth fund investments technology sector",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.618,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7664571428571427
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.625,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.8178571428571428
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "green bond market growth ESG reporting standards",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 0.6553333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8451142857142857
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.944047619047619
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "commercial real estate office vacancy rates",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 0.8816666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9127619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.96,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8862857142857143
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "global shipping container freight rates recovery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 0.7436666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9051619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.731,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8404857142857143
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "agricultural commodity prices wheat corn futures",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9642857142857143,
+        "depth": 0.8613333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8451238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9226190476190477,
+        "depth": 0.7493333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8743904761904762
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "bank stress test results capital requirements",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.8833333333333333,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.8373809523809523
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "fintech regulation open banking PSD3 Europe",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.6816666666666666,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.833952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9892857142857142
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "insurance industry climate risk actuarial models",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.6113333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7736952380952381
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9095238095238095
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "pension fund solvency aging population crisis",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.5823333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.807895238095238
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.8888888888888888,
+        "recency": 0.8571428571428572,
+        "depth": 0.9044444444444444,
+        "signal_to_noise": 0.4444444444444444,
+        "primary_source": 1,
+        "total": 0.818984126984127
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "mergers acquisitions antitrust enforcement trends",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.5714285714285714,
+        "depth": 0.9193333333333333,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6781523809523808
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.9583333333333334,
+        "depth": 1,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7716666666666667
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "shadow banking non-bank financial intermediation risk",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.631,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.6804857142857142
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9047619047619048,
+        "depth": 1,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.880952380952381
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "central bank digital currency CBDC pilot programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.771,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9094380952380952
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7373333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9188952380952381
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "student loan forgiveness US economic impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.5943333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8017238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9203333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9069238095238095
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "inflation adjusted wage growth purchasing power",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8928571428571429,
+        "depth": 0.7486666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8883047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.4285714285714286,
+        "depth": 0.881,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8219142857142856
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "corporate bond market spreads credit risk",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.9343333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9690095238095239
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 0.9756666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8294190476190476
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "rare earth minerals supply chain pricing",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 0.8570000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8256857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "global remittance flows mobile payment corridors",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9226190476190477,
+        "depth": 0.5473333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8539904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9880952380952381
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "hedge fund performance alpha generation 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9285714285714286,
+        "depth": 0.47533333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7807809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.9323333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9378952380952381
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "credit rating downgrades sovereign debt nations",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.7533333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.824952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.9656666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8759904761904762
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "semiconductor equipment spending capex forecast",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.9821428571428571,
+        "depth": 0.866,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7496285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9166666666666666,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9233333333333335
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "retail investor trading meme stocks resurgence",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"2601aa55-c25c-419c-bcc5-e6f30f0d86a6\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "microfinance impact developing economies evidence",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.7643333333333334,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.7550095238095238
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "trade deficit US China bilateral balance",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.5680000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8278857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9166666666666666,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9433333333333334
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "carbon credit market pricing verification issues",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8866666666666667,
+        "signal_to_noise": 0.8888888888888888,
+        "primary_source": 1,
+        "total": 0.8693968253968254
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8657142857142859
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "infrastructure spending multiplier economic growth",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.9606666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.889752380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9776190476190475
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "wealth inequality Gini coefficient trends global",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 0.6813333333333333,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.7324571428571429
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.7142857142857143,
+        "depth": 0.9833333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 0.8333333333333334,
+        "total": 0.8728571428571428
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "commercial aviation demand recovery airline stocks",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 0.72,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7804285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 0.6993333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8762952380952381
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "lithium cobalt pricing electric vehicle battery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8628571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "natural gas LNG spot price Europe Asia",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.7989999999999999,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8986095238095239
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8928571428571429,
+        "depth": 0.9066666666666666,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9399047619047618
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "forex volatility emerging market currencies",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.7813333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8950761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.865,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8272857142857143
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "corporate governance shareholder activism ESG",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 0.9703333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8254952380952382
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9523809523809523,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9104761904761904
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "digital payments mobile wallet adoption Africa",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"3984ee13-79bf-4b05-a902-318998d59cf8\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "luxury goods market demand China recovery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9047619047619048,
+        "depth": 0.7110000000000001,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8831523809523809
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8686666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8880190476190476
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "pharmaceutical M&A deal pipeline blockbusters",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9166666666666666,
+        "depth": 0.582,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.6797333333333333
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8628571428571428
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "US auto sales EV market share transition",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.754,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8822285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8276666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9369619047619047
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "global GDP growth forecast IMF World Bank",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.937,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9250190476190475
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8314285714285713
+      }
+    }
+  },
+  {
+    "category": "finance",
+    "query": "food inflation developing nations social impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 0.6356666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8480857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9161904761904761
+      }
+    }
+  }
+]

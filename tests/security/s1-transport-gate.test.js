@@ -65,7 +65,7 @@ try {
 function walkJs(dir, files = []) {
   for (const entry of readdirSync(dir)) {
     const full = join(dir, entry);
-    if (entry === 'node_modules' || entry === '.git') continue;
+    if (entry === 'node_modules' || entry === '.git' || entry === '.next') continue;
     if (statSync(full).isDirectory()) {
       walkJs(full, files);
     } else if (full.endsWith('.js') || full.endsWith('.mjs')) {

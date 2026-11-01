@@ -20,14 +20,14 @@ tests/          TDD — behavioral, security regression, skill contracts
 mcp/            MCP tool server and proxy
 ```
 
-See [spine.md](spine.md) for the full dependency map and design decisions.
-
 ## Skills
 
 | Skill | Description |
 |-------|-------------|
 | [typesafe-ai](.claude/skills/typesafe-ai/SKILL.md) | Jev integration: typed AI judgments (Choice, Score, Noul) |
 | [skill-builder](.claude/skills/skill-builder/SKILL.md) | Meta-skill for creating new skills |
+| [birbal-mesh](.claude/skills/birbal-mesh/SKILL.md) | Peer-to-peer bus between Claude Code sessions via shared SQLite |
+| [test-contract](.claude/skills/test-contract/SKILL.md) | Functional contract library for regression tests |
 | [email-sort](.claude/skills/email-sort/SKILL.md) | Gmail triage via Jev classification |
 | [newsletter](.claude/skills/newsletter/SKILL.md) | Daily digest: source sweep, clustering, Beehiiv + Notion |
 | [blog-it](.claude/skills/blog-it/SKILL.md) | Draft and publish blog posts to Notion |

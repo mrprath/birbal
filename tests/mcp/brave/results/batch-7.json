@@ -1,0 +1,1305 @@
+[
+  {
+    "category": "security",
+    "query": "ransomware attacks critical infrastructure hospitals 2026",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"1e4118c0-56a0-4720-bbfd-835610f0c23c\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "state-sponsored cyber espionage China APT groups",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.575,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.697857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9314285714285713
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "zero day vulnerability market broker pricing",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6756666666666666,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7579904761904761
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "AI deepfake election disinformation campaigns",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.8446666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8877428571428571
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9788095238095238
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "supply chain attack software dependency poisoning",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.7739999999999999,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9336095238095238
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.9537037037037036,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9621693121693122
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "CISA cybersecurity directive federal agencies",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9928571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "quantum computing encryption breaking timeline risk",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.8706666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8810380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.7386666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8946380952380952
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "critical infrastructure protection water treatment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.9779999999999999,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9425047619047617
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9669047619047619
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "phishing attacks generative AI social engineering",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7276666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8769619047619047
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8313333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8976952380952381
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "IoT device botnet DDoS attack scale",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.6826666666666668,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7879619047619049
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9380952380952381
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "insider threat detection behavioral analytics",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9642857142857143,
+        "depth": 0.85,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 0.9803333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9489238095238095
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "cloud security misconfiguration data breach trends",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"1da579cf-bed2-45ad-8c7f-8ab5d8363c53\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "election security voting machine audit standards",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 0.5906666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8909904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "privacy regulation GDPR enforcement fines 2026",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.8888888888888888,
+        "recency": 0.5714285714285714,
+        "depth": 0.7455555555555555,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.7745079365079365
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9273333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8997523809523809
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "cryptocurrency exchange hacks theft recovery",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"2b3bd46d-09e4-41fc-922f-c63434ebe08e\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "military drone swarm autonomous weapons policy",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9226190476190477,
+        "depth": 0.618,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7881238095238094
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8942857142857144
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "biometric surveillance facial recognition regulation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9345238095238095,
+        "depth": 0.7110000000000001,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8091047619047618
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7325,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.8679285714285715
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "dark web marketplace law enforcement takedowns",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6366666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8101904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.748,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8324571428571428
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "nuclear facility cybersecurity IAEA guidelines",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6390476190476191,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.8420952380952382
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9047619047619048
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "5G network security equipment vendor trust",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9940476190476191,
+        "depth": 0.7076666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7803428571428571
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.9655555555555556,
+        "signal_to_noise": 0.7777777777777778,
+        "primary_source": 1,
+        "total": 0.920095238095238
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "disinformation campaigns social media platform response",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.7989999999999999,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8914666666666667
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "physical security critical infrastructure sabotage",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.5116666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7451904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "satellite jamming spoofing GPS vulnerability",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.6613333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7665523809523809
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.7777777777777778,
+        "primary_source": 0.8888888888888888,
+        "total": 0.8476190476190475
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "border security technology surveillance civil liberties",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6206666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8355619047619047
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "chemical biological threat detection sensors",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.626,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7194857142857143
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "financial system SWIFT sanctions circumvention",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.5760000000000001,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8492476190476191
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.934047619047619
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "undersea cable sabotage Nord Stream investigation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.6293333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9032476190476191
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9692857142857143
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "autonomous weapons lethal regulations UN debate",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.5806666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7989904761904763
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9114285714285714
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "counterterrorism intelligence sharing Five Eyes",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.585,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7958095238095237
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9388095238095238
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "port security container screening trade facilitation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9226190476190477,
+        "depth": 0.6123333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8269904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 0.896,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8953904761904761
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "pandemic bioterrorism preparedness response capability",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.546,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7406285714285714
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "energy grid cybersecurity SCADA ICS attacks",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.6783333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8378095238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "misinformation health vaccine anti-science campaigns",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.64,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8349047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9669047619047619
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "personal data broker industry regulation privacy",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.6286666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8085904761904763
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.875,
+        "recency": 0.7142857142857143,
+        "depth": 0.7870833333333334,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.8502738095238096
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "school safety security measures gun violence prevention",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.814,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8056571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7942857142857143
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "money laundering cryptocurrency mixing enforcement",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.91,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.864857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8942857142857144
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "espionage trade secret theft industrial competitors",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9043333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8551523809523809
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.8964285714285716
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "refugee screening vetting process security concerns",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9523809523809523,
+        "depth": 0.6403333333333333,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7985428571428571
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9469047619047618
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "food supply chain safety contamination prevention",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.848,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9284095238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.8986666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9785428571428572
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "maritime piracy Gulf of Guinea Horn of Africa",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.565,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7644285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.9047619047619048,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8209523809523809
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "airport security screening technology advances",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9583333333333334,
+        "depth": 0.595,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7906666666666667
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.8892857142857142
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "radicalization prevention counter-extremism programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9642857142857143,
+        "depth": 0.9223333333333333,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6973238095238095
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7142857142857142
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "diplomatic security embassy protection incidents",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.592,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8698285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8828571428571429
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "cybersecurity workforce shortage skills gap training",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.5923333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.855847619047619
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.5714285714285714,
+        "depth": 0.5738888888888889,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.729063492063492
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "critical mineral supply chain security dependency",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.9293333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9834857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "space security ASAT anti-satellite weapons testing",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6263333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8966952380952382
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8693333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8767238095238096
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "deepfake detection authentication verification tools",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 0.7753333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8912571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8942857142857144
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "SIM swapping identity theft mobile security",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9523809523809523,
+        "depth": 0.7736666666666666,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8452095238095237
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9263333333333332,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7995523809523809
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "open source intelligence OSINT investigation tools",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.641,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8796285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8988095238095238,
+        "depth": 0.8673333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9132285714285715
+      }
+    }
+  },
+  {
+    "category": "security",
+    "query": "ethical hacking bug bounty program trends",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.5063333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7965047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  }
+]

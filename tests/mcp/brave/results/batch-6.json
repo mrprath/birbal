@@ -1,0 +1,1304 @@
+[
+  {
+    "category": "space",
+    "query": "Artemis III moon landing mission timeline crew",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9107142857142857,
+        "depth": 0.6943333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8410095238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "SpaceX Starship orbital flight test results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9492857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9583333333333334,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9116666666666667
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "James Webb telescope new discoveries galaxies",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8988095238095238,
+        "depth": 0.827,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7651619047619047
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9583333333333334,
+        "depth": 0.871,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9258666666666666
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Mars sample return mission NASA ESA status",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.5716666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7571904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8828571428571429
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "asteroid mining commercial viability Psyche mission",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.5746666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7377904761904761
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.8571428571428572,
+        "depth": 0.8875,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8989285714285714
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space debris Kessler syndrome mitigation efforts",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6533333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7735238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.9289999999999999,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8972285714285715
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Blue Origin New Glenn first launch date",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9285714285714286,
+        "depth": 0.9743333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9405809523809523
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9285714285714286,
+        "depth": 0.8746666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9406476190476191
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "ISS deorbit plan commercial space station transition",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.6746666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8806476190476191
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9404761904761905,
+        "depth": 0.9979999999999999,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9476952380952379
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "China space station Tiangong experiments crew",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.9226190476190477,
+        "depth": 0.6885714285714286,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.8650952380952381
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8928571428571429,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9385714285714286
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "India Chandrayaan-4 moon mission ISRO plans",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.6290476190476191,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.8627142857142858
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Europa Clipper Jupiter moon ocean habitability",
+    "news": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.2857142857142857,
+        "depth": 0.9808333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8533095238095239
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9976190476190476
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Voyager probes interstellar space communication status",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.589,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6120857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8514285714285714
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "satellite mega constellation regulation spectrum",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.6666666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8790476190476191
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9702380952380952,
+        "depth": 0.9816666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9103809523809524
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space tourism Virgin Galactic flights pricing",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.661,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.8110095238095237
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8571428571428572,
+        "depth": 0.9510000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8616285714285714
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "dark matter detection experiments latest results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9833333333333332
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 0.994,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9102285714285714
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "gravitational wave observatory LIGO new findings",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.5,
+        "signal_to_noise": 0.1111111111111111,
+        "primary_source": 1,
+        "total": 0.6365079365079365
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8357142857142857
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "exoplanet discovery habitable zone atmospheric analysis",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.658,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7630285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8228571428571427
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space weather solar storm geomagnetic impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.8366666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8987619047619049
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.8526666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9445809523809524
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "lunar gateway station construction NASA timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 0.49333333333333335,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7215238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8228571428571427
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Rocket Lab Electron Neutron launch manifest",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 0.9460000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9856285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9226190476190477,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9645238095238096
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space manufacturing microgravity fiber optics crystal",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.6496666666666667,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.6842190476190477
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.5714285714285714,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.8285714285714286
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Mars helicopter Ingenuity successors drone missions",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6506666666666666,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7815619047619047
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space force military satellite defense programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9285714285714286,
+        "depth": 0.8836666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9424476190476192
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.9913333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9211238095238095
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Venus missions DAVINCI VERITAS timeline science",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.4246666666666667,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.5592190476190476
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9166666666666666,
+        "depth": 0.9346666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8902666666666667
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "nuclear thermal propulsion deep space travel",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.6126666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7853904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8356666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9099904761904762
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space elevator carbon nanotube tether research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.4626666666666667,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6068190476190476
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8411111111111111,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9063174603174604
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "asteroid deflection DART mission follow-up Hera",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.8888888888888888,
+        "recency": 0.9345238095238095,
+        "depth": 0.5588888888888889,
+        "signal_to_noise": 0.8888888888888888,
+        "primary_source": 1,
+        "total": 0.8542380952380952
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8928571428571429,
+        "depth": 0.9244444444444444,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9634603174603175
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "cosmic microwave background new measurements cosmology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9128571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9128571428571428
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Starlink satellite internet global coverage gaps",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.513,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.836647619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.934047619047619
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "lunar south pole ice water VIPER rover",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 0.74,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8913333333333332
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8142857142857143
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "private astronaut missions Axiom SpaceX ISS",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9821428571428571,
+        "depth": 0.7889999999999999,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7542285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9080952380952381
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "interstellar object Oumuamua Borisov detection",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.7113333333333334,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.753695238095238
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.8888888888888888,
+        "primary_source": 1,
+        "total": 0.8825396825396826
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space telescopes next generation Roman Observatory",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 0.7063333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9010285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.879,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8786571428571428
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Mars colonization habitat design radiation shielding",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.5507407407407408,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.653005291005291
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.7761904761904762
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "cubesat constellation Earth observation climate",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"95485b9e-60fb-44f1-bef1-841f89847461\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "SpinLaunch kinetic launch system testing progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.564,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.6270857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.8929999999999999,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7928857142857142
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "UFO UAP government investigation disclosure report",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.6493333333333333,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7839142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8869047619047619
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space law Outer Space Treaty reform modernization",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.819,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9352285714285713
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 0.8333333333333334,
+        "total": 0.9380952380952381
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "solar sail propulsion LightSail demonstration",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.7223809523809525,
+        "signal_to_noise": 0.5714285714285714,
+        "primary_source": 1,
+        "total": 0.7730476190476191
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.9642857142857143,
+        "depth": 0.7890476190476191,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.8935238095238095
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Titan Saturn moon Dragonfly mission timeline",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.7777777777777778,
+        "recency": 0.9047619047619048,
+        "depth": 0.5525925925925925,
+        "signal_to_noise": 0.2222222222222222,
+        "primary_source": 1,
+        "total": 0.6914708994708996
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7828571428571429
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "black hole imaging Event Horizon Telescope new",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.49433333333333335,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.770295238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 0.968,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8764571428571429
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "commercial lunar lander Intuitive Machines Astrobotic",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.521904761904762,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8186666666666668
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8761904761904763
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space radiation astronaut health long duration",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"faa0dfee-1afa-4e87-b956-2d77bb3fdec5\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "reusable rocket technology comparison Falcon Starship",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9285714285714286,
+        "depth": 0.6726666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.860247619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.9583333333333334,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8716666666666667
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "planetary defense near-Earth object tracking catalog",
+    "news": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.5241666666666667,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.752452380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8576190476190476
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "space sustainability orbital environment guidelines",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 0.8113333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8620285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "astrochemistry organic molecules interstellar medium",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6626666666666667,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7353904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8828571428571429
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "launch cost reduction trend dollars per kilogram",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.574,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.756942857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9047619047619048,
+        "depth": 0.8103333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9030190476190476
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "Pluto orbiter mission concept New Horizons follow",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 0.6246666666666667,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6163619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8314285714285715
+      }
+    }
+  },
+  {
+    "category": "space",
+    "query": "magnetar fast radio burst astrophysics mystery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.5873333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8996095238095239
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.8723333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9413714285714285
+      }
+    }
+  }
+]
