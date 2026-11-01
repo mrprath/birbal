@@ -1,0 +1,1306 @@
+[
+  {
+    "category": "society",
+    "query": "remote work return to office corporate policies",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.6196666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9120285714285714
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "housing affordability crisis major cities 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9166666666666666,
+        "depth": 0.585,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8403333333333333
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9280952380952382
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "universal basic income pilot program results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6006666666666667,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.7115619047619048
+      }
+    },
+    "web": {
+      "count": 1,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.36333333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8440952380952382
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "immigration reform skilled worker visa programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.7396666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8107904761904761
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9361904761904762
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "education AI tutoring student performance impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 0.7853333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8734952380952382
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9276666666666668,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8883904761904763
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "social media regulation children mental health",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.8233333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9234761904761906
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9588095238095239
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "homelessness crisis encampment policy court rulings",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.5133333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7455238095238095
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.8829629629629631,
+        "signal_to_noise": 0.8888888888888888,
+        "primary_source": 1,
+        "total": 0.946037037037037
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "racial justice policing reform legislation progress",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.9821428571428571,
+        "depth": 0.6128571428571429,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6618571428571428
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.8928571428571429
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "gender pay gap equal pay legislation enforcement",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.7496666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7527904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8428571428571429
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "aging population retirement age social security",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.468,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8250285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.9743333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8891523809523811
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "gig economy worker classification rights benefits",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.7766666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.872952380952381
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.7094444444444444,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9026031746031746
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "free speech platform moderation content policy",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.753,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9020285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "student debt crisis higher education value debate",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 0.5743333333333334,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7677238095238096
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "food insecurity poverty nutrition assistance programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 0.5336666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8300666666666666
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8869047619047619,
+        "depth": 0.9570000000000001,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9087809523809524
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "childcare cost access universal pre-K expansion",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.7256666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8625142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9773809523809524
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "prison reform criminal justice sentencing guidelines",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.875,
+        "recency": 0.7142857142857143,
+        "depth": 0.6045833333333334,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.6887738095238095
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.9977777777777778,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9709841269841271
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "voting rights gerrymandering redistricting court cases",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7493333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8412952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "religious freedom discrimination accommodation law",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"3a8dddad-b8e2-4ab4-adcf-bd2407e71df9\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "disability rights accessibility technology inclusion",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6456666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7919904761904762
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.4285714285714286,
+        "depth": 0.9980952380952381,
+        "signal_to_noise": 0.2857142857142857,
+        "primary_source": 1,
+        "total": 0.7139047619047618
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "rural decline population loss economic revitalization",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.5526666666666668,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6933904761904761
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8988095238095238,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8797619047619047
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "urban planning 15-minute city walkability transit",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.5379166666666667,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.7444880952380952
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.9047619047619048,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.930952380952381
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "loneliness epidemic social isolation public health",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8086666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8931619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8979999999999999,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9510285714285714
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "book banning library censorship school boards",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"e9a7ae7d-e2b3-413a-af94-1f066c71e8e4\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "labor union organizing Amazon Starbucks results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.665,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8244285714285715
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.1428571428571429,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8285714285714285
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "minimum wage increase economic impact employment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9047619047619048,
+        "depth": 0.643,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.909552380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "climate refugee displacement relocation rights",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"8a8fdb0e-3f07-46bc-80fc-4ef556b1438a\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "digital divide broadband access rural communities",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8123333333333332,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8738952380952381
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8377777777777778,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8818412698412699
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "nonprofit sector funding philanthropic trends",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 0.6010000000000001,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6344857142857142
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.8476190476190475
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "foster care system reform child welfare outcomes",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6726666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7973904761904762
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8213333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9071238095238096
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "public transit ridership recovery investment needs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.694,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7530857142857142
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.5714285714285714,
+        "depth": 0.6647619047619048,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.7900952380952381
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "drug decriminalization Portugal model outcomes",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9583333333333334,
+        "depth": 0.8316666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8379999999999999
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.9345238095238095,
+        "depth": 0.9637037037037036,
+        "signal_to_noise": 0.5555555555555556,
+        "primary_source": 1,
+        "total": 0.8240899470899471
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "community policing trust building effectiveness",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9779999999999999,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8984571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8403333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8794952380952381
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "school choice voucher charter public funding",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9906666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9409904761904763
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "arts funding cultural preservation budget cuts",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.7336666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8495904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9606666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9149904761904761
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "veteran services mental health transition support",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.697,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8708285714285715
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "elder abuse prevention detection intervention",
+    "news": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6422222222222221,
+        "signal_to_noise": 0.3333333333333333,
+        "primary_source": 1,
+        "total": 0.7665396825396826
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.655,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7452857142857143
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "youth employment apprenticeship program expansion",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.662,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8604952380952382
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.884,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8882285714285715
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "public health infrastructure CDC reform funding",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9345238095238095,
+        "depth": 0.628,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7525047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8469047619047618
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "disaster preparedness community resilience FEMA",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.7583333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8185714285714287
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.9345238095238095,
+        "depth": 0.9809523809523809,
+        "signal_to_noise": 0.5714285714285714,
+        "primary_source": 1,
+        "total": 0.8402380952380952
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "affirmative action college admissions post Supreme Court",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"6190a176-78a6-4cbf-8b97-58266add6f2f\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "media trust journalism local news decline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.7503333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9276857142857142
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.9576666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9629619047619048
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "indigenous rights land sovereignty recognition",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9226190476190477,
+        "depth": 0.6523333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8349904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.868095238095238
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "surrogacy law international regulation ethics",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.5333333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.660952380952381
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "domestic violence prevention intervention programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.6863333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8401238095238096
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "tech company layoffs economic impact industry",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.5753333333333334,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7864952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.9979999999999999,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9853142857142856
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "water rights access privatization public trust",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9226190476190477,
+        "depth": 0.5243333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7093904761904762
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9226190476190477,
+        "depth": 0.77,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9051904761904762
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "animal welfare factory farming regulation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9107142857142857,
+        "depth": 0.739,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9099428571428572
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.7777777777777778,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9376984126984127
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "multilingualism language preservation endangered",
+    "news": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.6083333333333333,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.6859523809523809
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.719047619047619
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "wealth tax progressive taxation revenue debate",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.5916666666666667,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7252380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9233333333333332
+      }
+    }
+  },
+  {
+    "category": "society",
+    "query": "public land management conservation recreation access",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9433333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.902952380952381
+      }
+    }
+  }
+]

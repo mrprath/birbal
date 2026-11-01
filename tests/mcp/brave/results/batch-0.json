@@ -1,0 +1,1307 @@
+[
+  {
+    "category": "geopolitics",
+    "query": "US China semiconductor export controls 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8869047619047619,
+        "depth": 0.72,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8413809523809525
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9609523809523809
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "NATO expansion Baltic states defense spending",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.6663333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8846952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.8656666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8759904761904762
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "India Pakistan water treaty dispute Indus",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9404761904761905,
+        "depth": 0.9323333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9545619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9404761904761905,
+        "depth": 0.8903333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9461619047619049
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Russia Ukraine grain corridor Black Sea",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.8223333333333332,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9513714285714286
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8089999999999999,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9332285714285714
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Taiwan Strait military exercises October 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.6286666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8409714285714287
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "BRICS expansion new member states 2026",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"20e16fd0-ffd3-4d58-abb9-a6634818137f\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Iran nuclear deal IAEA inspections latest",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8183333333333334,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8065238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.9821428571428571,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8964285714285716
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "South China Sea territorial claims Philippines",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8493333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9127238095238095
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "EU defense spending NATO 2 percent GDP",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9857142857142858
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9457142857142857
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Middle East ceasefire negotiations Gaza",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.7526666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8822000000000001
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7493333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9212952380952381
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "North Korea missile tests ICBM 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9821428571428571,
+        "depth": 0.7076666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8979619047619047
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.8506666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9477523809523809
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "African Union peacekeeping missions Sudan",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.71,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7934285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8988095238095238,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8597619047619048
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Arctic sovereignty claims Russia Canada",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.662,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8152571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "India China border dispute Ladakh",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.7203333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8869238095238096
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.925
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Turkey Syria border operations Kurdish forces",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.617,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7948285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8028571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Japan South Korea defense cooperation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.7563333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.902695238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8023333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9318952380952382
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Venezuela Guyana Essequibo territory dispute",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.8089999999999999,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7646571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8373809523809523
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Egypt Ethiopia Grand Renaissance Dam Nile",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 0.8,
+        "total": 0.9257142857142858
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8869047619047619,
+        "depth": 0.8376666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9249142857142857
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Saudi Arabia Iran diplomatic relations normalization",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.934047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9728571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "US military bases Pacific realignment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.5966666666666667,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.6621904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8740476190476191
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "EU sanctions Russia energy imports 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.8266666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8281904761904763
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.765,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9303809523809523
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Indonesia ASEAN chairmanship maritime security",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.6776666666666668,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8069619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Brazil Amazon deforestation international pressure",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.7203333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8269238095238094
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8761904761904763
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Central Asia water crisis Aral Sea",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9047619047619048,
+        "depth": 0.6766666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8162857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9114285714285714
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Greenland independence movement Denmark",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9226190476190477,
+        "depth": 0.6956666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8636571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Moldova EU accession Transnistria conflict",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8526666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9133904761904763
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Pacific Islands climate diplomacy security pacts",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.47600000000000003,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8868666666666666
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8942857142857144
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Horn of Africa drought humanitarian crisis",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.9443333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8676761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Myanmar civil war resistance forces",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9376190476190477
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Libya unity government elections timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8283333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8770952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8540476190476192
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Balkans EU integration Serbia Kosovo dialogue",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8964285714285716
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9821428571428571,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9564285714285713
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Mexico cartel violence US border policy",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.7110000000000001,
+        "signal_to_noise": 0.7,
+        "primary_source": 0.9,
+        "total": 0.8479142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9573809523809522
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Colombia peace process FARC dissidents",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.7973333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8223238095238095
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Nepal China India infrastructure competition",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.7206666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9429428571428572
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8821428571428571
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Sri Lanka debt restructuring IMF program",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9285714285714286,
+        "depth": 0.9166666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.869047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8657142857142859
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Bangladesh garment industry labor rights",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8928571428571429,
+        "depth": 0.5856666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7157047619047618
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9114285714285714
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Angola oil production OPEC quota",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.5436666666666666,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7661142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.9526666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8857714285714285
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Mozambique insurgency Cabo Delgado LNG",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"482569a9-63d3-4b18-8496-7f8ebf0e26e0\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Papua New Guinea tribal violence elections",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"4eb48a9f-66a3-4117-8231-03a38379a99e\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Fiji climate adaptation Pacific resilience",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"f50f064e-71d4-4b73-b87a-ae4b27a628f9\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Cuba economic reforms US embargo",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.5783333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8425714285714285
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8742857142857142
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Haiti security crisis gang violence",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"bbec3448-28f9-45f0-947b-f269ee9e4873\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Peru political instability mining protests",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 0.6010000000000001,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7116285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8628571428571428
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Chile lithium nationalization mining policy",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8988095238095238,
+        "depth": 0.504,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7605619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 0.9223333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9032761904761906
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Argentina peso crisis dollarization debate",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.7696666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7927428571428572
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.42857142857142855,
+        "primary_source": 1,
+        "total": 0.8285714285714285
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Kazakhstan political reforms Nazarbayev legacy",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.58,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7388571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8514285714285714
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Uzbekistan cotton industry forced labor reforms",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 0.6596666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8483619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9464285714285714,
+        "depth": 0.8736666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9240190476190477
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Georgia EU accession protests Russian influence",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.6416666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8352380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "Armenia Azerbaijan Nagorno-Karabakh peace deal",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.834,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9041809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.8879999999999999,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.871647619047619
+      }
+    }
+  },
+  {
+    "category": "geopolitics",
+    "query": "South Sudan oil production peace agreement",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.8726666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8573904761904763
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8828571428571429
+      }
+    }
+  }
+]

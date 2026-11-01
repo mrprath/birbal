@@ -13,6 +13,7 @@
 //   --mcp <list>        Comma-separated MCP server names to enable
 //   --skills <list>     Comma-separated skill names to load
 //   --allow-all         Run with --dangerously-skip-permissions (unattended workers)
+//   --handoff           Permanent transfer: child receives brief but never taps back. Standalone session.
 //   --dry-run           Write the bat file but do not open a window
 
 import { spawn } from 'node:child_process';
@@ -37,7 +38,22 @@ const SAFE_LABEL = /^[a-zA-Z0-9_-]{1,64}$/;
  * Build the join prompt that the child session executes on start.
  * Exported for testing.
  */
-export function buildJoinPrompt({ label, role, spawner }) {
+export function buildJoinPrompt({ label, role, spawner, handoff }) {
+  if (handoff) {
+    // Permanent handoff: child receives brief, works independently, never taps back.
+    return [
+      `You are a ${role} on the Birbal Mesh.`,
+      `Your label is ${label}.`,
+      `Join the mesh: mesh_rename to ${label}, then mesh_agents.`,
+      spawner
+        ? `Then tap ${spawner} with: ${label} ready for task.`
+        : '',
+      `Then start a persistent Monitor on the command: node scripts/mesh-poll.mjs --label ${label} -- to receive incoming taps.`,
+      'When a tap arrives via the Monitor, execute the instructions in it. Do not act until you receive a tap with your brief.',
+      'This is a permanent handoff. You are a standalone session. Do NOT tap back to the spawner when done. Work independently until complete, then mesh_rename to parked-' + label + ' and stay idle. The human will interact with you directly.',
+    ].filter(Boolean).join(' ');
+  }
+
   return [
     `You are a ${role} on the Birbal Mesh.`,
     `Your label is ${label}.`,
@@ -48,8 +64,8 @@ export function buildJoinPrompt({ label, role, spawner }) {
     `Then start a persistent Monitor on the command: node scripts/mesh-poll.mjs --label ${label} -- to receive incoming taps.`,
     'When a tap arrives via the Monitor, execute the instructions in it. Do not act until you receive a tap with your brief.',
     spawner
-      ? `When your task is complete, tap ${spawner} with the result, then mesh_rename to parked-${label} and stop your Monitor. Do not exit -- the human will close this window when ready.`
-      : `When your task is complete, mesh_rename to parked-${label} and stop your Monitor. Do not exit -- the human will close this window when ready.`,
+      ? `When your task is complete, tap ${spawner} with the result, then mesh_rename to parked-${label}. Keep your Monitor alive for 5 minutes after parking so you can receive unpark taps without a respawn. After 5 minutes with no new taps, stop the Monitor and stay idle. Do not exit -- the human will close this window when ready.`
+      : `When your task is complete, mesh_rename to parked-${label}. Keep your Monitor alive for 5 minutes after parking so you can receive unpark taps without a respawn. After 5 minutes with no new taps, stop the Monitor and stay idle. Do not exit -- the human will close this window when ready.`,
   ].filter(Boolean).join(' ');
 }
 
@@ -78,6 +94,7 @@ if (isMainModule) {
       mcp:       { type: 'string', default: '' },
       skills:    { type: 'string', default: '' },
       'allow-all': { type: 'boolean', default: false },
+      'handoff':   { type: 'boolean', default: false },
       'dry-run':   { type: 'boolean', default: false },
     },
     strict: true,
@@ -99,6 +116,7 @@ if (isMainModule) {
     label: values.label,
     role: values.role,
     spawner: values.spawner,
+    handoff: values.handoff,
   });
 
   // Windows only

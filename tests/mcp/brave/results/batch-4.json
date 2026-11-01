@@ -1,0 +1,1307 @@
+[
+  {
+    "category": "health",
+    "query": "CRISPR gene therapy sickle cell approval results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9564285714285713
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9821428571428571,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9564285714285713
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "bird flu H5N1 human transmission risk pandemic",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.7142857142857143,
+        "depth": 0.7923809523809524,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.8156190476190476
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.5966666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8050476190476191
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "mRNA vaccine cancer treatment clinical trials",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.871,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9530095238095239
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.9738095238095237
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "Alzheimer drug lecanemab real world effectiveness",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.7406666666666666,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.926942857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9469047619047618
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "antibiotic resistance superbug WHO priority pathogens",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 0.7903333333333333,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.8309238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.7142857142857143,
+        "depth": 0.9929999999999999,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8414571428571428
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "GLP-1 weight loss drugs Ozempic shortage impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.604,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8065142857142856
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9057142857142857
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "long COVID treatment research latest findings",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"fb6ecaf8-2b63-4266-8dff-75c389cfc68d\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "mental health crisis youth social media impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9404761904761905,
+        "depth": 0.6363333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8353619047619049
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9226190476190477,
+        "depth": 0.8726666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9190571428571429
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "malaria vaccine rollout Africa coverage rates",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.761,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8236285714285714
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9533333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9335238095238095
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "mpox outbreak containment vaccination campaign",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.5836666666666667,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6795904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.7857142857142858
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "universal healthcare expansion coverage gaps global",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.6436666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8427809523809525
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9523809523809523,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9304761904761903
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "opioid crisis fentanyl overdose prevention",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.7236666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7590190476190476
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8620833333333333,
+        "signal_to_noise": 0.75,
+        "primary_source": 0.875,
+        "total": 0.8117023809523809
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "AI diagnostic tools radiology FDA approval",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 0.5793333333333334,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7272952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.8853333333333334,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7884952380952381
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "organ transplant xenotransplantation pig kidney",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8908333333333334,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.9245952380952381
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.5555555555555556,
+        "recency": 0.7142857142857143,
+        "depth": 0.87,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.827968253968254
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "TB drug resistant tuberculosis treatment advances",
+    "news": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.96,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9062857142857143
+      }
+    },
+    "web": {
+      "count": 1,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "maternal mortality racial disparities US data",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.8410000000000001,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8670095238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8988095238095237
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "psychedelic therapy MDMA psilocybin FDA approval",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.782,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8478285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.777,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8382571428571429
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "rare disease orphan drug development pipeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8542857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 0.869,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8280857142857142
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "genome sequencing cost reduction personalized medicine",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9702380952380952,
+        "depth": 0.8883333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8317142857142856
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.945,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.8413809523809525
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "telemedicine regulation expansion post pandemic",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.7110000000000001,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7736285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 0.8066666666666666,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7527619047619047
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "global vaccine equity COVAX distribution gaps",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.6193333333333334,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.6867238095238096
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8142857142857143
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "air pollution health effects cardiovascular study",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 0.77,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8749523809523809
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.4285714285714286,
+        "depth": 0.7333333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.7323809523809524
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "aging population healthcare system capacity strain",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.6980000000000001,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9076952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.968095238095238
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "drug pricing reform insulin caps legislation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9880952380952381,
+        "depth": 0.6933333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8162857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9880952380952381,
+        "depth": 0.7846666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7945523809523809
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "CAR-T cell therapy solid tumor progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.8629999999999999,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8640285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.934047619047619
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "sleep deprivation cognitive health economic cost",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.763,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8878380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9964285714285716
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "microbiome research gut health immune system",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.7716666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.900047619047619
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9761904761904763
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "children obesity prevention school lunch programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.7426666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8766285714285715
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.9023809523809524
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "stroke treatment thrombectomy time window expansion",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.6536666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8621619047619047
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.7777777777777778,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9269841269841269
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "wearable health monitoring continuous glucose ECG",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.936190476190476
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.875,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.9261904761904762
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "HIV cure research latent reservoir elimination",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.762,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7466857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.9642857142857143,
+        "depth": 0.83,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.6988571428571428
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "climate change infectious disease vector spread",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6136666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7855904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "nursing shortage healthcare worker burnout crisis",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"96cc5275-11f8-4b1f-b514-5f5da6a5d6cc\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "precision oncology biomarker driven treatment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8571428571428572,
+        "depth": 0.973,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7660285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8628571428571428
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "synthetic blood artificial red blood cells",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.5363333333333333,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7586952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8714285714285713
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "dementia care costs economic burden projections",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"e179a1c2-8c9a-4a48-a5b4-9a19c79477e2\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "eye disease gene therapy retinal blindness",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9583333333333334,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9716666666666667
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6816666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9077619047619049
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "tobacco harm reduction e-cigarette policy debate",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.901,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.854247619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.9943333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9529142857142858
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "pandemic preparedness treaty WHO negotiations",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8928571428571429,
+        "depth": 0.6143333333333334,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7414380952380952
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8928571428571429,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8785714285714287
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "lead exposure drinking water children health",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7813333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.927695238095238
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "fertility treatment IVF access affordability",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9221428571428572
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8733333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.808952380952381
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "hearing loss prevention noise exposure guidelines",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.46095238095238095,
+        "signal_to_noise": 0.2857142857142857,
+        "primary_source": 1,
+        "total": 0.6636190476190476
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8642857142857142
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "autoimmune disease thyroid lupus treatment advances",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"3cd5bdec-f7de-4a59-8bce-98d901295a02\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "emergency department overcrowding wait times crisis",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8928571428571429,
+        "depth": 0.588,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8561714285714285
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9047619047619048,
+        "depth": 0.9183333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9046190476190477
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "palliative care hospice access rural communities",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.5963333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8733142857142857
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.9809523809523809,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.881904761904762
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "prosthetics bionic limb neural interface advances",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.8026666666666668,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7719619047619048
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "health misinformation social media counter measures",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.7376666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8744380952380952
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9869047619047618
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "cervical cancer elimination HPV vaccination progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.7663333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8273142857142858
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7436666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9201619047619047
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "food allergy treatment oral immunotherapy advances",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 0.7183333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8424761904761905
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "health",
+    "query": "surgical robotics da Vinci system outcomes data",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"97f05378-11b0-4354-8947-e9d8253ab5d4\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  }
+]

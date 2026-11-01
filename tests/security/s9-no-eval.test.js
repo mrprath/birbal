@@ -69,7 +69,7 @@ function isExempt(rel) {
 function walk(dir, files = []) {
   for (const entry of readdirSync(dir)) {
     const full = join(dir, entry);
-    if (entry === 'node_modules' || entry === '.git') continue;
+    if (entry === 'node_modules' || entry === '.git' || entry === '.next') continue;
     if (statSync(full).isDirectory()) walk(full, files);
     else if (full.endsWith('.js') || full.endsWith('.mjs') || full.endsWith('.sh'))
       files.push(full);

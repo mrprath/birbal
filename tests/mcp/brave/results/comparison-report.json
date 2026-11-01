@@ -1,0 +1,262 @@
+{
+  "categories": {
+    "geopolitics": {
+      "queries": 50,
+      "errors": 5,
+      "news_avg": {
+        "source_diversity": 0.818,
+        "recency": 0.785,
+        "depth": 0.679,
+        "signal_to_noise": 0.65,
+        "primary_source": 0.894,
+        "total": 0.765
+      },
+      "web_avg": {
+        "source_diversity": 0.718,
+        "recency": 0.753,
+        "depth": 0.861,
+        "signal_to_noise": 0.82,
+        "primary_source": 0.9,
+        "total": 0.81
+      }
+    },
+    "technology": {
+      "queries": 50,
+      "errors": 0,
+      "news_avg": {
+        "source_diversity": 0.894,
+        "recency": 0.88,
+        "depth": 0.735,
+        "signal_to_noise": 0.661,
+        "primary_source": 0.996,
+        "total": 0.833
+      },
+      "web_avg": {
+        "source_diversity": 0.875,
+        "recency": 0.832,
+        "depth": 0.951,
+        "signal_to_noise": 0.893,
+        "primary_source": 0.998,
+        "total": 0.91
+      }
+    },
+    "finance": {
+      "queries": 50,
+      "errors": 2,
+      "news_avg": {
+        "source_diversity": 0.818,
+        "recency": 0.825,
+        "depth": 0.717,
+        "signal_to_noise": 0.667,
+        "primary_source": 0.96,
+        "total": 0.797
+      },
+      "web_avg": {
+        "source_diversity": 0.859,
+        "recency": 0.752,
+        "depth": 0.89,
+        "signal_to_noise": 0.854,
+        "primary_source": 0.957,
+        "total": 0.862
+      }
+    },
+    "climate": {
+      "queries": 50,
+      "errors": 0,
+      "news_avg": {
+        "source_diversity": 0.918,
+        "recency": 0.847,
+        "depth": 0.751,
+        "signal_to_noise": 0.687,
+        "primary_source": 0.996,
+        "total": 0.84
+      },
+      "web_avg": {
+        "source_diversity": 0.875,
+        "recency": 0.756,
+        "depth": 0.939,
+        "signal_to_noise": 0.873,
+        "primary_source": 0.998,
+        "total": 0.888
+      }
+    },
+    "health": {
+      "queries": 50,
+      "errors": 5,
+      "news_avg": {
+        "source_diversity": 0.805,
+        "recency": 0.779,
+        "depth": 0.685,
+        "signal_to_noise": 0.607,
+        "primary_source": 0.9,
+        "total": 0.755
+      },
+      "web_avg": {
+        "source_diversity": 0.742,
+        "recency": 0.699,
+        "depth": 0.839,
+        "signal_to_noise": 0.781,
+        "primary_source": 0.898,
+        "total": 0.792
+      }
+    },
+    "energy": {
+      "queries": 50,
+      "errors": 8,
+      "news_avg": {
+        "source_diversity": 0.768,
+        "recency": 0.725,
+        "depth": 0.633,
+        "signal_to_noise": 0.589,
+        "primary_source": 0.838,
+        "total": 0.711
+      },
+      "web_avg": {
+        "source_diversity": 0.74,
+        "recency": 0.681,
+        "depth": 0.808,
+        "signal_to_noise": 0.724,
+        "primary_source": 0.838,
+        "total": 0.758
+      }
+    },
+    "space": {
+      "queries": 50,
+      "errors": 2,
+      "news_avg": {
+        "source_diversity": 0.878,
+        "recency": 0.786,
+        "depth": 0.653,
+        "signal_to_noise": 0.554,
+        "primary_source": 0.96,
+        "total": 0.766
+      },
+      "web_avg": {
+        "source_diversity": 0.707,
+        "recency": 0.804,
+        "depth": 0.922,
+        "signal_to_noise": 0.893,
+        "primary_source": 0.957,
+        "total": 0.856
+      }
+    },
+    "security": {
+      "queries": 50,
+      "errors": 3,
+      "news_avg": {
+        "source_diversity": 0.878,
+        "recency": 0.809,
+        "depth": 0.659,
+        "signal_to_noise": 0.638,
+        "primary_source": 0.94,
+        "total": 0.785
+      },
+      "web_avg": {
+        "source_diversity": 0.819,
+        "recency": 0.733,
+        "depth": 0.874,
+        "signal_to_noise": 0.797,
+        "primary_source": 0.918,
+        "total": 0.828
+      }
+    },
+    "society": {
+      "queries": 50,
+      "errors": 4,
+      "news_avg": {
+        "source_diversity": 0.86,
+        "recency": 0.766,
+        "depth": 0.629,
+        "signal_to_noise": 0.56,
+        "primary_source": 0.92,
+        "total": 0.747
+      },
+      "web_avg": {
+        "source_diversity": 0.832,
+        "recency": 0.711,
+        "depth": 0.86,
+        "signal_to_noise": 0.776,
+        "primary_source": 0.92,
+        "total": 0.82
+      }
+    },
+    "science": {
+      "queries": 50,
+      "errors": 0,
+      "news_avg": {
+        "source_diversity": 0.894,
+        "recency": 0.831,
+        "depth": 0.71,
+        "signal_to_noise": 0.508,
+        "primary_source": 1,
+        "total": 0.789
+      },
+      "web_avg": {
+        "source_diversity": 0.704,
+        "recency": 0.793,
+        "depth": 0.982,
+        "signal_to_noise": 0.874,
+        "primary_source": 1,
+        "total": 0.871
+      }
+    }
+  },
+  "overall": {
+    "total_queries": 500,
+    "total_errors": 29,
+    "news_avg": {
+      "source_diversity": 0.853,
+      "recency": 0.803,
+      "depth": 0.685,
+      "signal_to_noise": 0.612,
+      "primary_source": 0.94,
+      "total": 0.779
+    },
+    "web_avg": {
+      "source_diversity": 0.787,
+      "recency": 0.751,
+      "depth": 0.893,
+      "signal_to_noise": 0.828,
+      "primary_source": 0.938,
+      "total": 0.84
+    }
+  },
+  "jev_inputs": {
+    "source_diversity": {
+      "news": 0.853,
+      "web": 0.787,
+      "winner": "news",
+      "delta": 0.066
+    },
+    "recency": {
+      "news": 0.803,
+      "web": 0.751,
+      "winner": "news",
+      "delta": 0.052
+    },
+    "depth": {
+      "news": 0.685,
+      "web": 0.893,
+      "winner": "web",
+      "delta": 0.208
+    },
+    "signal_to_noise": {
+      "news": 0.612,
+      "web": 0.828,
+      "winner": "web",
+      "delta": 0.216
+    },
+    "primary_source": {
+      "news": 0.94,
+      "web": 0.938,
+      "winner": "news",
+      "delta": 0.002
+    },
+    "total": {
+      "news": 0.779,
+      "web": 0.84,
+      "winner": "web",
+      "delta": 0.061
+    }
+  }
+}

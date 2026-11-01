@@ -1,0 +1,1302 @@
+[
+  {
+    "category": "science",
+    "query": "nuclear fusion ignition NIF Lawrence Livermore progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9166666666666666,
+        "depth": 0.8303333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8493999999999999
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.869,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9052285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "dark energy accelerating expansion new measurements",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 0.8393333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8666761904761906
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8028571428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "CRISPR base editing prime editing research 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 0.7976666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8604857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "consciousness neuroscience theory integrated information",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6103333333333333,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.753495238095238
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.780952380952381
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "microplastics human blood organ health effects",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 0.768,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.874552380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "quantum entanglement teleportation distance record",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.6876666666666668,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8003904761904762
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "deep ocean biodiversity hydrothermal vent discovery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.7416666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7797619047619048
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9523809523809523,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8704761904761904
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "ancient DNA human migration Neanderthal research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8928571428571429,
+        "depth": 0.621,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7427714285714286
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.2,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8114285714285714
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "room temperature superconductor replication attempts",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.5730000000000001,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7288857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "artificial photosynthesis solar fuel research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.6536666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8247809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9821428571428571,
+        "depth": 0.911,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8986285714285713
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "gravitational wave multimessenger astronomy neutron star",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.657,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7742571428571429
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "climate tipping points interconnected cascade model",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 0.5453333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7631142857142856
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.8888888888888888,
+        "primary_source": 1,
+        "total": 0.9634920634920636
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "stem cell therapy regenerative medicine heart trial",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.7366666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.8013809523809524
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9976190476190476
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "dark matter direct detection experiment results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.994,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.960942857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "antibiotic discovery AI machine learning new compounds",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 0.7976666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7935809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8740476190476191
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "dinosaur fossil discovery species paleontology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.7846666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7597904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8314285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "ocean current circulation AMOC weakening evidence",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9047619047619048,
+        "depth": 0.9416666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9492857142857144
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8988095238095238,
+        "depth": 0.7673333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8732285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "earthquake prediction machine learning seismology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.825,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8164285714285715
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.9583333333333334,
+        "depth": 1,
+        "signal_to_noise": 0.42857142857142855,
+        "primary_source": 1,
+        "total": 0.8202380952380952
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "spider silk synthetic production material science",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8706666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9455619047619048
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9047619047619048
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "quantum biology bird navigation photosynthesis",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.6606666666666666,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7461809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.9303333333333335,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8574952380952382
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "human-animal chimera organoid ethics research",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.7142857142857143,
+        "depth": 0.6508333333333334,
+        "signal_to_noise": 0.375,
+        "primary_source": 1,
+        "total": 0.6980238095238096
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "volcanic eruption prediction monitoring technology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.5323333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8052761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 0.9333333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7980952380952382
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "extremophile life forms Mars analog environments",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8809523809523809,
+        "depth": 0.5483333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7058571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.7457142857142858
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "brain organoid consciousness ethical implications",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.5446666666666666,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6917904761904762
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.625,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "topological quantum computing anyons Microsoft",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.5643333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8797714285714285
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.625,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8964285714285716
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "mass extinction event sixth extinction biodiversity",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.632,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.6606857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.2,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8292857142857143
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "metamaterial invisibility cloaking acoustic optical",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.875,
+        "recency": 0.8928571428571429,
+        "depth": 0.5633333333333334,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.7162380952380952
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8142857142857143
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "gut-brain axis microbiome mental health depression",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6789999999999999,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8072285714285714
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9607142857142857
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "magnetosphere Earth magnetic pole reversal evidence",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 0.7386666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.867495238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "de-extinction woolly mammoth passenger pigeon",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.5661904761904762,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.8275238095238094
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8314285714285713
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "graviton particle detection theoretical physics",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.647,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7322571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.2,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7628571428571429
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "ice core climate record paleoclimate reconstruction",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.5263333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.639552380952381
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "astrobiology biosignatures exoplanet atmosphere",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6586666666666666,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7631619047619047
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.7892857142857143
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "epigenetics transgenerational inheritance stress trauma",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.8888888888888888,
+        "recency": 0.9523809523809523,
+        "depth": 0.8522222222222222,
+        "signal_to_noise": 0.5555555555555556,
+        "primary_source": 1,
+        "total": 0.8498095238095237
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9523809523809523,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9104761904761904
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "quantum simulation molecular dynamics drug design",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9464285714285714,
+        "depth": 0.8473333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8587523809523809
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "whale communication language decoding research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9107142857142857,
+        "depth": 0.5386666666666666,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7298761904761905
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.875,
+        "recency": 0.7142857142857143,
+        "depth": 0.82875,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7836071428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "graphene applications electronics thermal conductivity",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.906,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.875247619047619
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.8357142857142857
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "soil biodiversity ecosystem function carbon storage",
+    "news": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.7142857142857143,
+        "depth": 0.99,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.8551428571428572
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "neutrino mass hierarchy oscillation experiment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.6323333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.640752380952381
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9047619047619048
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "mycelium network forest communication fungal ecology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8869047619047619,
+        "depth": 0.668,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.6909809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9404761904761905,
+        "depth": 0.9733333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8827619047619046
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "bioacoustics soundscape ecology monitoring conservation",
+    "news": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.7711111111111112,
+        "signal_to_noise": 0.3333333333333333,
+        "primary_source": 1,
+        "total": 0.7066031746031747
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "gene drive mosquito malaria population suppression",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9404761904761905,
+        "depth": 0.7743333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7629619047619048
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.8988095238095238,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.8797619047619047
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "tau protein Alzheimer pathology imaging research",
+    "news": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.7142857142857143,
+        "depth": 0.7183333333333334,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.7865238095238095
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "solar system formation planet nine evidence",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8643333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8957238095238097
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "limb regeneration axolotl molecular pathway human",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9404761904761905,
+        "depth": 0.6036666666666667,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7288285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9345238095238095,
+        "depth": 0.963,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8795047619047619
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "supermassive black hole galaxy formation evolution",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8928571428571429,
+        "depth": 0.7383333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8262380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8628571428571428
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "DNA data storage encoding retrieval technology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.7253333333333333,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7364952380952381
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.875,
+        "recency": 0.8869047619047619,
+        "depth": 0.90875,
+        "signal_to_noise": 0.375,
+        "primary_source": 1,
+        "total": 0.8091309523809525
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "placebo effect neuroscience mechanism understanding",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.5653333333333334,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7644952380952381
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.819047619047619
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "prion disease treatment CJD research therapeutic",
+    "news": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.9322222222222223,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.8054920634920635
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8314285714285715
+      }
+    }
+  },
+  {
+    "category": "science",
+    "query": "cosmic ray origin galactic extragalactic acceleration",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9583333333333334,
+        "depth": 0.5753333333333334,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7267333333333333
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.4285714285714286,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8523809523809524
+      }
+    }
+  }
+]

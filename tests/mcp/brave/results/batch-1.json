@@ -1,0 +1,1302 @@
+[
+  {
+    "category": "technology",
+    "query": "OpenAI GPT-5 release date capabilities",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9821428571428571,
+        "depth": 0.7133333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7990952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9161904761904761
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "Apple Vision Pro sales adoption rates",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.6376666666666667,
+        "signal_to_noise": 0.1,
+        "primary_source": 0.9,
+        "total": 0.7132476190476191
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.82,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.892095238095238
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "quantum computing error correction breakthrough 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.7686666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9113523809523809
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.8746666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9618380952380953
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "TSMC 2nm chip production timeline Arizona",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.5666666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8109523809523809
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9376190476190477
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "SpaceX Starship Mars mission timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9523809523809523,
+        "depth": 0.5356666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7776095238095239
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.832857142857143
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "EU AI Act enforcement penalties October 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 0.6446666666666667,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7853619047619047
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8542857142857143
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "Neuralink brain implant clinical trials results",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8988095238095238,
+        "depth": 0.9486666666666668,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9294952380952382
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 0.895,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9587619047619047
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "autonomous vehicle regulations US states 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 0.7233333333333334,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.8210952380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.925,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8507142857142856
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "6G wireless standard development timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.7816666666666666,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7591904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.9526666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8133904761904762
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "solid state battery production EV commercialization",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9464285714285714,
+        "depth": 0.9620000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 0.9,
+        "total": 0.9416857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.969,
+        "signal_to_noise": 0.9,
+        "primary_source": 0.9,
+        "total": 0.8680857142857142
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "RISC-V chip architecture adoption enterprise",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.773,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.842695238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9404761904761905,
+        "depth": 0.9583333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9197619047619048
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "Google DeepMind protein folding drug discovery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8869047619047619,
+        "depth": 0.6683333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.871047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9669047619047619
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "Meta Threads growth Twitter X competition",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 0.49166666666666664,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7816666666666666
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9047619047619048,
+        "depth": 0.746,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.850152380952381
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "NVIDIA H200 GPU supply chain AI demand",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.6623333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8205619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.8623333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.863895238095238
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "Samsung Galaxy foldable market share 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9642857142857143,
+        "depth": 0.6456666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8419904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "TikTok ban US Supreme Court ruling",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.624,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.6590857142857143
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.9642857142857143,
+        "depth": 0.865,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.8991904761904763
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "cybersecurity zero day exploits critical infrastructure",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9880952380952381,
+        "depth": 0.5276666666666667,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.703152380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8928571428571429,
+        "depth": 0.642,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8069714285714287
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "blockchain regulation cryptocurrency MiCA Europe",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.91,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8808095238095237
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9464285714285714,
+        "depth": 0.82,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9332857142857144
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "humanoid robots manufacturing Tesla Optimus",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9107142857142857,
+        "depth": 0.9853333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9392095238095239
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "edge computing 5G industrial IoT deployment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.742,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8198285714285716
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8742857142857143
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "open source AI models Llama Mistral comparison",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 0.44166666666666665,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8847619047619049
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9892857142857142
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "Microsoft Copilot enterprise adoption productivity",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.801,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9471047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "cloud computing market share AWS Azure Google",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9107142857142857,
+        "depth": 0.6316666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8084761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8330000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.909457142857143
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "digital identity systems national ID programs",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.9583333333333334,
+        "depth": 0.8426666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8002
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "synthetic biology CRISPR gene editing regulation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 0.6683333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8924761904761904
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.5714285714285714,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9011904761904763
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "space debris removal active missions 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 0.8473333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9035142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9583333333333334,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9316666666666666
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "undersea cable infrastructure geopolitics security",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.7876666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8527714285714285
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9952380952380953
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "AR glasses consumer market Meta Ray-Ban",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 0.6963333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9002190476190476
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 0.832,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8206857142857142
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "nuclear fusion energy ITER progress timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9166666666666666,
+        "depth": 0.8333333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8300000000000001
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "photonic computing silicon photonics research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.953,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9420285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "satellite internet Starlink OneWeb competition",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.7716666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.900047619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8914285714285715
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "autonomous drone delivery regulations FAA",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.604,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9160380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9463333333333332,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8721238095238096
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "carbon capture technology direct air commercial",
+    "news": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.7741666666666667,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.790547619047619
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9806666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8704190476190476
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "advanced packaging chiplet technology Intel AMD",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.7693333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8481523809523811
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9761904761904763
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "WebAssembly adoption server side performance",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.518,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.6293142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9269047619047619
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "post-quantum cryptography NIST standards migration",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9345238095238095,
+        "depth": 0.9063333333333332,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9281714285714285
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9114285714285714
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "sustainable aviation fuel SAF production scale",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.962142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9821428571428571
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "vertical farming indoor agriculture scalability",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.6689999999999999,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.861895238095238
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9880952380952381
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "brain-computer interface non-invasive research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.9820000000000001,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9540190476190477
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9573809523809522
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "augmented reality surgical navigation medical",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6463333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7921238095238096
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9976190476190476
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "robotaxis Waymo Cruise expansion cities 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8869047619047619,
+        "depth": 0.5446666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8263142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "energy storage grid scale iron air batteries",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 0.7789999999999999,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.894609523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9588095238095239
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "programmable matter metamaterials research",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7773333333333333,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.8068952380952382
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8928571428571429,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.9119047619047619
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "lab grown meat regulatory approval scaling",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9761904761904762,
+        "depth": 0.7486666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7849714285714285
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9952380952380953
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "holographic displays consumer electronics progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9761904761904762,
+        "depth": 0.5860000000000001,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.6524380952380953
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8928571428571429,
+        "depth": 0.7504166666666666,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.7786547619047619
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "superconductor room temperature claims verification",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.5796666666666667,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7387904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "neuromorphic computing Intel Loihi applications",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.605,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.6924285714285714
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 0.75,
+        "recency": 0.7142857142857143,
+        "depth": 0.9675,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.886357142857143
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "biodegradable electronics environmental sensors",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.4,
+        "recency": 0.9523809523809523,
+        "depth": 0.9289999999999999,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7762761904761905
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9523809523809523,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8704761904761906
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "deep sea mining polymetallic nodules regulation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.4285714285714286,
+        "depth": 0.72,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7897142857142858
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.9280952380952382,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8713333333333335
+      }
+    }
+  },
+  {
+    "category": "technology",
+    "query": "hypersonic weapons defense systems development",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.938809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8342857142857142
+      }
+    }
+  }
+]

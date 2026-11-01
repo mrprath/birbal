@@ -1,0 +1,1310 @@
+[
+  {
+    "category": "energy",
+    "query": "nuclear power plant construction new reactors 2026",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"8ba9a57e-ddb9-4f26-9c13-6cf7099a09e9\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "solar panel manufacturing overcapacity price crash",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"cd997a8f-161b-40e0-a748-e86f37e95e72\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "US LNG export terminal construction approvals",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.645,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6632857142857143
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "offshore wind farm delays supply chain cost",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9940476190476191,
+        "depth": 0.7106666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8409428571428572
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.989,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9292285714285715
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "oil refinery closures energy transition impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 0.609,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.7239428571428571
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.862857142857143
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "battery recycling lithium recovery technology scale",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.7777777777777778,
+        "recency": 0.7142857142857143,
+        "depth": 0.9796296296296297,
+        "signal_to_noise": 0.7777777777777778,
+        "primary_source": 1,
+        "total": 0.84989417989418
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "hydrogen electrolyzer manufacturing capacity growth",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9880952380952381,
+        "depth": 0.932,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8840190476190477
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.3,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7542857142857142
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "coal phase-out timeline Germany India timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.5676666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8049619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9221428571428572
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "energy storage duration iron air sodium ion",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 0.8363333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9460761904761904
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9188095238095236
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "small modular reactor SMR licensing progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.8253333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9038761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.89,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9368095238095238
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "grid interconnection cross-border electricity trade",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 0.9,
+        "total": 0.9573809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 0.9,
+        "total": 0.9573809523809524
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "perovskite solar cell efficiency commercial timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.8883333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9552857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.8826666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9279619047619047
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "natural gas pipeline infrastructure Europe security",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 0.8413333333333334,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7511238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8809523809523809,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9361904761904762
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "electricity demand AI data center growth impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9464285714285714,
+        "depth": 0.5893333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.907152380952381
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9892857142857142
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "oil exploration new discoveries deep water",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9880952380952381,
+        "depth": 0.814,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7604190476190477
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9514285714285714
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "biofuel ethanol mandate blend wall debate",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"96dd2b7d-5a15-493c-a125-c4fa668e3d56\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "energy poverty access sub-Saharan Africa progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9702380952380952,
+        "depth": 0.7103333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9161142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9047619047619048,
+        "depth": 0.944,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9497523809523809
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "virtual power plant demand response aggregation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9743333333333334,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8891523809523809
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8746666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9177904761904763
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "floating offshore wind turbine technology deployment",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"b769fef4-6f0d-474f-b197-a99355de0c6f\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "uranium enrichment supply chain nuclear fuel",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9752380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "vehicle to grid V2G bidirectional charging",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.803,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9522666666666666
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.7636666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8355904761904762
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "transmission line permitting siting reform US",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"64cc8769-0a86-4d21-bbfc-84d84ba6afb3\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "community solar subscription model adoption",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9345238095238095,
+        "depth": 0.6,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.846904761904762
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8809523809523809,
+        "depth": 0.9620000000000001,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8885904761904762
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "industrial heat decarbonization electric furnace",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.8988095238095238,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8797619047619047
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9797619047619047
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "oil price volatility OPEC spare capacity",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9404761904761905,
+        "depth": 0.5226666666666667,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6926285714285714
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9761904761904762,
+        "depth": 0.9306666666666666,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9213714285714285
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "wave tidal energy ocean power commercialization",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.767,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9048285714285715
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "energy efficiency building codes appliance standards",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.7423333333333333,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8313238095238095
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.9226190476190477,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9045238095238094
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "diesel generator phase-out developing nations",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"2f5c6fc3-27bf-484c-adeb-4adf8b2a4878\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "compressed air energy storage CAES projects",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9166666666666666,
+        "depth": 0.7943333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8821999999999999
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9166666666666666,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.9333333333333332
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "critical minerals processing refining geopolitics",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9464285714285714,
+        "depth": 0.7086666666666667,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8310190476190478
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9892857142857142
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "superconducting cable power transmission efficiency",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"d2c2d0d4-d317-4dc1-9b4d-5dcec73ab27c\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "rooftop solar net metering policy changes",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.743,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.902647619047619
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9880952380952381
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "enhanced geothermal system EGS drilling technology",
+    "news": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.6648148148148149,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.7805820105820105
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8428571428571429
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "energy transition jobs workforce retraining",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8039999999999999,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8236571428571429
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.7142857142857143,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.5714285714285714,
+        "primary_source": 1,
+        "total": 0.8285714285714286
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "pipeline safety regulation inspection technology",
+    "news": {
+      "count": 1,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.5533333333333333,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.5963809523809525
+      }
+    },
+    "web": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0,
+        "depth": 0.8683333333333333,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.5736666666666667
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "methane leak detection satellite monitoring oil gas",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 0.7043333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8937238095238096
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 0.9136666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9755904761904762
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "district heating geothermal waste heat recovery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.6783333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8185238095238094
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7942857142857143
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "agrivoltaics dual use solar farming land",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.7483333333333333,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8449047619047618
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9761904761904762,
+        "depth": 0.9056666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9363714285714286
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "power purchase agreement PPA corporate renewable",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9761904761904762,
+        "depth": 0.8923333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9537047619047619
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9821428571428571
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "coal to clean energy transition financing",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.678,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8184571428571429
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8533333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8735238095238096
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "oil sands production emissions intensity Canada",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.7203333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.875495238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.9970000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9508285714285714
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "energy independence Europe Russian gas alternatives",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.6866666666666666,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8287619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8869047619047619,
+        "depth": 0.8606666666666666,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9095142857142857
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "minigrids off-grid electrification Africa Asia",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.589,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.7551809523809523
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9595238095238094,
+        "signal_to_noise": 0.42857142857142855,
+        "primary_source": 1,
+        "total": 0.7919047619047619
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "nuclear waste disposal geological repository progress",
+    "error": "Brave 429: {\"type\":\"ErrorResponse\",\"error\":{\"id\":\"381e7e27-a5ad-4b66-a28d-a090e19d3c9b\",\"status\":429,\"detail\":\"Request rate limit exceeded for plan\",\"meta\":{\"plan\":\"Free\",\"rate_limit\":1,\"rate_current\":1,\"quota_l",
+    "news": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    },
+    "web": {
+      "count": 0,
+      "score": {
+        "source_diversity": 0,
+        "recency": 0,
+        "depth": 0,
+        "signal_to_noise": 0,
+        "primary_source": 0,
+        "total": 0
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "synthetic fuels e-fuels production cost scaling",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9221428571428572
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9021428571428572
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "electricity market design capacity market reform",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.7636666666666666,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.818447619047619
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9428571428571428
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "tidal barrage lagoon power UK Swansea",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.465,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7187142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9285714285714286,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8657142857142859
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "thermal energy storage molten salt sand battery",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.6956666666666667,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8943714285714286
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9228571428571428
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "carbon neutral shipping fuel ammonia hydrogen",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.5943333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7617238095238096
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8341666666666666,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7811190476190476
+      }
+    }
+  },
+  {
+    "category": "energy",
+    "query": "pumped hydro storage new projects global capacity",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9285714285714286,
+        "depth": 0.7889999999999999,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9235142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9107142857142857,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9621428571428572
+      }
+    }
+  }
+]

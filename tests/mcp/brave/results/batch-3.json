@@ -1,0 +1,1302 @@
+[
+  {
+    "category": "climate",
+    "query": "Antarctic ice sheet collapse rate latest data",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 0.5063333333333333,
+        "signal_to_noise": 0.1,
+        "primary_source": 1,
+        "total": 0.7000761904761904
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8588095238095239
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "extreme weather events attribution science 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9821428571428571,
+        "depth": 0.606,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7776285714285713
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9345238095238095,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9469047619047618
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "global methane emissions reduction pledges progress",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.6826666666666668,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7939142857142858
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8988095238095238,
+        "depth": 0.8866666666666667,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.9237619047619049
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "carbon budget remaining 1.5 degrees pathway",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.6816666666666666,
+        "signal_to_noise": 0.2,
+        "primary_source": 1,
+        "total": 0.7477619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8714285714285716
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "Amazon rainforest tipping point research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.769,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8890380952380953
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8988095238095238,
+        "depth": 0.925,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9447619047619048
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "coral reef bleaching Great Barrier Reef 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9226190476190477,
+        "depth": 0.7736666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8592571428571428
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.875,
+        "signal_to_noise": 0.8333333333333334,
+        "primary_source": 1,
+        "total": 0.8845238095238095
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "renewable energy capacity additions solar wind",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9940476190476191,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9788095238095238
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9404761904761905,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9480952380952381
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "electric vehicle sales global market share October",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.6206666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8193714285714286
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "COP climate summit negotiations progress 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.5714285714285714,
+        "depth": 0.61,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7362857142857143
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8742857142857143
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "sea level rise coastal cities adaptation plans",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8928571428571429,
+        "depth": 0.6589999999999999,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8103714285714286
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8928571428571429,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9585714285714285
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "permafrost thawing Arctic greenhouse gas release",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.8571428571428572,
+        "depth": 0.722,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8158285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 0.945,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8918571428571429
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "heat wave records mortality Europe Asia 2026",
+    "news": {
+      "count": 2,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.6183333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7093809523809524
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9821428571428571,
+        "depth": 0.9216666666666666,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8207619047619048
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "deforestation rates satellite monitoring October",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6173333333333333,
+        "signal_to_noise": 0,
+        "primary_source": 1,
+        "total": 0.6663238095238095
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.9993333333333334,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.834152380952381
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "ocean acidification marine ecosystem impacts",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9540476190476191
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9540476190476191
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "climate migration displacement population projections",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8136666666666666,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8170190476190475
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8542857142857143
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "wildfire season severity western US Canada 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.6863333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.7715523809523809
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9328571428571429
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "green hydrogen production cost reduction timeline",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9880952380952381,
+        "depth": 0.709,
+        "signal_to_noise": 0.9,
+        "primary_source": 0.8,
+        "total": 0.8594190476190476
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.7896666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 0.9,
+        "total": 0.8607904761904763
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "climate litigation lawsuits fossil fuel companies",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9314285714285715
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "circular economy waste reduction policies EU",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8869047619047619,
+        "depth": 0.5946666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8363142857142858
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8869047619047619,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9173809523809524
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "biodiversity loss species extinction rate COP15",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9702380952380952,
+        "depth": 0.806,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.835247619047619
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.6666666666666666,
+        "recency": 0.9464285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.8888888888888888,
+        "primary_source": 1,
+        "total": 0.9003968253968253
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "water scarcity drought risk Mediterranean",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9761904761904762,
+        "depth": 0.7226666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8597714285714286
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.963,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9240285714285715
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "offshore wind farm construction pipeline global",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9940476190476191,
+        "depth": 0.8753333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9738761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.7776666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8498190476190477
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "climate finance developing nations $100 billion",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.8543333333333334,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.9025333333333334
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.8971428571428572,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.8651428571428571
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "agriculture adaptation climate resilient crops",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.9486666666666668,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9011619047619048
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "urban heat island mitigation green infrastructure",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9285714285714286,
+        "depth": 0.7066666666666667,
+        "signal_to_noise": 0.625,
+        "primary_source": 1,
+        "total": 0.8520476190476192
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.2857142857142857,
+        "depth": 1,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.7771428571428571
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "glacier retreat Himalayan water security Asia",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9821428571428571,
+        "depth": 0.8393333333333334,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9242952380952382
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9166666666666666,
+        "depth": 0.9816666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9596666666666668
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "peatland restoration carbon sequestration potential",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9226190476190477,
+        "depth": 0.646,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8537238095238096
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.7853333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.871352380952381
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "air quality pollution deaths WHO standards",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9821428571428571,
+        "depth": 0.6713333333333333,
+        "signal_to_noise": 0.4,
+        "primary_source": 1,
+        "total": 0.7706952380952381
+      }
+    },
+    "web": {
+      "count": 8,
+      "score": {
+        "source_diversity": 0.625,
+        "recency": 0.9166666666666666,
+        "depth": 0.6804166666666667,
+        "signal_to_noise": 0.875,
+        "primary_source": 1,
+        "total": 0.8194166666666666
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "tidal energy wave power commercial viability",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.707,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7842571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9028571428571428
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "climate tech startup funding cleantech investment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.9821428571428571,
+        "depth": 0.7233333333333334,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8810952380952382
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9404761904761905,
+        "depth": 0.9263333333333332,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9733619047619048
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "mangrove restoration coastal protection carbon",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.945,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9032857142857142
+      }
+    },
+    "web": {
+      "count": 3,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 0.7422222222222222,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8627301587301588
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "geothermal energy expansion capacity additions",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6646666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8357904761904763
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.7142857142857143,
+        "depth": 0.8779999999999999,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8184571428571429
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "plastic pollution treaty negotiations UN 2026",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.6003333333333333,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.8176857142857143
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9583333333333334,
+        "depth": 0.6090476190476191,
+        "signal_to_noise": 0.42857142857142855,
+        "primary_source": 1,
+        "total": 0.7991904761904762
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "wetland loss ecosystem services valuation",
+    "news": {
+      "count": 8,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.8366666666666667,
+        "signal_to_noise": 0.25,
+        "primary_source": 1,
+        "total": 0.7601904761904763
+      }
+    },
+    "web": {
+      "count": 1,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "forest fire prevention indigenous land management",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.776,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8580571428571429
+      }
+    },
+    "web": {
+      "count": 4,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.75,
+        "primary_source": 1,
+        "total": 0.8642857142857142
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "building decarbonization retrofit heat pump adoption",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9702380952380952,
+        "depth": 0.6573333333333333,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8855142857142857
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9404761904761905,
+        "depth": 0.9510000000000001,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9582952380952381
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "shipping decarbonization ammonia methanol fuels",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.7142857142857143,
+        "depth": 0.8086666666666666,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7845904761904763
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.8761904761904763
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "climate anxiety mental health youth impact",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9642857142857143,
+        "depth": 0.8016666666666666,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9131904761904762
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9642857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.7777777777777778,
+        "primary_source": 1,
+        "total": 0.9484126984126984
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "solar geoengineering stratospheric aerosol research",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9226190476190477,
+        "depth": 0.7919999999999999,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8629238095238095
+      }
+    },
+    "web": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.4285714285714286,
+        "depth": 0.8993333333333333,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8655809523809523
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "regenerative agriculture soil carbon sequestration",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.9570000000000001,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.9142571428571429
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 0.8571428571428571,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.8571428571428571,
+        "primary_source": 1,
+        "total": 0.8857142857142858
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "flood risk infrastructure resilience investment",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.9642857142857143,
+        "depth": 0.8526666666666667,
+        "signal_to_noise": 0.7,
+        "primary_source": 1,
+        "total": 0.8833904761904762
+      }
+    },
+    "web": {
+      "count": 9,
+      "score": {
+        "source_diversity": 0.8888888888888888,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 0.6666666666666666,
+        "primary_source": 1,
+        "total": 0.8825396825396826
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "electric grid modernization transmission buildout",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9107142857142857,
+        "depth": 0.6346666666666667,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8290761904761904
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.5,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.7942857142857143
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "aviation emissions SAF mandate regulations",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.9107142857142857,
+        "depth": 0.7876666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7996761904761905
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.6216666666666667,
+        "signal_to_noise": 0.5,
+        "primary_source": 1,
+        "total": 0.7557619047619049
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "fast fashion environmental impact regulation",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.9,
+        "recency": 0.5714285714285714,
+        "depth": 0.5706666666666667,
+        "signal_to_noise": 0.3,
+        "primary_source": 1,
+        "total": 0.6684190476190477
+      }
+    },
+    "web": {
+      "count": 6,
+      "score": {
+        "source_diversity": 0.8333333333333334,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9095238095238095
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "food waste methane reduction technology",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.652,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8532571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.5714285714285714,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9142857142857143
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "mining environmental impact lithium extraction",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.9880952380952381,
+        "depth": 0.8870000000000001,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9350190476190476
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.7,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8828571428571429
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "nuclear energy revival new reactor construction",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.8571428571428572,
+        "depth": 0.6996666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8713619047619048
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.6,
+        "recency": 0.5714285714285714,
+        "depth": 0.9676666666666667,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.8278190476190476
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "carbon removal credits permanence verification",
+    "news": {
+      "count": 5,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.6413333333333333,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.8311238095238096
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.7142857142857143,
+        "depth": 0.986,
+        "signal_to_noise": 0.8,
+        "primary_source": 1,
+        "total": 0.9000571428571428
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "climate adaptation indigenous knowledge integration",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.8046666666666666,
+        "signal_to_noise": 0.6,
+        "primary_source": 1,
+        "total": 0.8523619047619047
+      }
+    },
+    "web": {
+      "count": 7,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 0.9185714285714285,
+        "signal_to_noise": 0.7142857142857143,
+        "primary_source": 1,
+        "total": 0.898
+      }
+    }
+  },
+  {
+    "category": "climate",
+    "query": "desalination energy efficiency water security",
+    "news": {
+      "count": 10,
+      "score": {
+        "source_diversity": 0.8,
+        "recency": 0.7142857142857143,
+        "depth": 1,
+        "signal_to_noise": 0.9,
+        "primary_source": 1,
+        "total": 0.8828571428571429
+      }
+    },
+    "web": {
+      "count": 10,
+      "score": {
+        "source_diversity": 1,
+        "recency": 0.8571428571428572,
+        "depth": 1,
+        "signal_to_noise": 1,
+        "primary_source": 1,
+        "total": 0.9714285714285715
+      }
+    }
+  }
+]
